@@ -8,13 +8,14 @@ mixed_uppercase = False # set True to aAbB order instead of abAB
 """ Define custom alphabetic order for Assyriological symbols.
 If you encounter errors while sorting, add new characters here. """
 
-NONALPHANUMERIC = "×!|@#&%()–-_[{}].:;',?/\*`~$^+=<>“⁻ "
+NONALPHANUMERIC = "×!@#&%()–-_[{}].:;',?/\*`~$^+=<>“⁻ "
 ZERO = 'Ø'
 NUMERIC = "0123456789"
 INDEX = "₀₁₂₃₄₅₆₇₈₉"
 X_INDEX = "ₓ"
 ALEPH = "ʾˀ"
 ALPHA = "aáàâābcdeéèêēfgĝŋhḫiíìîījklmnoóòōôpqrřȓsšṣtṭuúùûūvwxyz"
+PIPE = '|'
 ALLNUMBERS = ''.join([j for i in zip(list(NUMERIC), list(INDEX)) for j in i])
 
 if mixed_uppercase:
@@ -22,7 +23,8 @@ if mixed_uppercase:
 else:
     ALLALPHA = ALPHA + ALPHA.upper()
         
-ALPHABET = NONALPHANUMERIC + ZERO + ALLNUMBERS + X_INDEX + ALEPH + ALLALPHA
+ALPHABET = NONALPHANUMERIC + ZERO +\
+           ALLNUMBERS + X_INDEX + ALEPH + ALLALPHA + PIPE
 
 """ Define index remover """
 INDICES = INDEX + X_INDEX

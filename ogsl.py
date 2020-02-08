@@ -26,7 +26,7 @@ ct.from_ascii(x)             Return (str) in UTF-8 from ASCII, e.g.
 
 get_name(x)                  Return (str) sign name for reading x
 get_values(x)                Return (list) values for sign X
-get_homonyms(x)              Return (list) of phonetic sequences like x
+get_homophones(x)            Return (list) of phonetic sequences like x
 get_abstract(x)              Return (list) of values that have a given
                              phonetic/syllabic shape.
 
@@ -100,7 +100,7 @@ class Signs:
         values = self.list.get(name, None)
         return self.sort(values, 0, sort)
     
-    def get_homonyms(self, reading, sort_by='value', sort=False):
+    def get_homophones(self, reading, sort_by='value', sort=False):
         """ Get signs that have same phonetic value """
         sort_by = self._set_sort_key(sort_by)
         phonemic = ct.remove_index(reading)
@@ -164,14 +164,16 @@ class Signs:
         if key is not None:
             return key.get(source, None)
             
-ogsl = Signs()
+
 def demo():
+    ogsl = Signs()
     #print(x)
     #x = ogsl.get_abstract('*C:*C:*', sort=True)
     #x = ogsl.contains_sign('LAGAB', position='initial')
-    #x = ogsl.get_homonyms('an')
+    x = ogsl.get_homophones('an', sort=True)
     if isinstance(x, str):
         print(x)
     else:
         for v in x:
             print(v)
+#demo()
