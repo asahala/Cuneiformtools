@@ -8,7 +8,7 @@ mixed_uppercase = False # set True to aAbB order instead of abAB
 """ Define custom alphabetic order for Assyriological symbols.
 If you encounter errors while sorting, add new characters here. """
 
-NONALPHANUMERIC = "×!|@#&%()–-_[{}].:;',?/\*`~$^+=<>“ "
+NONALPHANUMERIC = "×!|@#&%()–-_[{}].:;',?/\*`~$^+=<>“⁻ "
 ZERO = 'Ø'
 NUMERIC = "0123456789"
 INDEX = "₀₁₂₃₄₅₆₇₈₉"

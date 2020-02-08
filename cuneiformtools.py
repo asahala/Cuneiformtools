@@ -27,6 +27,7 @@ def from_ascii(string):
     cuneifom transliteration """
     return string.translate(ASCII_INDEX)
 
+
 class Tokenizer:
 
     def __init__(self, delimiters='-'):
