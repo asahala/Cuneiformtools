@@ -10,7 +10,7 @@ Contains alphabetic definitions and sign order in Adam Anderson's sign list. Thi
 Contains tools for performing variety of searches from the OGSL sign list:
 
 #### ct.from_ascii(string)
-Return (str) standard Unicode representation for ´string´ in ASCII: e.g. "RE2" -> "RE₂"
+Return (str) standard Unicode representation for ASCII ´string´: e.g. "RE2" -> "RE₂"
 
 #### get_name(reading)
 Return (str) sign name for ´reading´: e.g. "lil₂" -> "KID"
@@ -54,7 +54,7 @@ Sort input list according to the alphabet used in Assyriology. Takes into accoun
 Validate ´input´ that can be either a single string or a list or tuple of strings. Reveals if the text has characters not defined in the custom alphabet.
 
 #### Tokenizer().separate(string)
-Tokenizes Oracc cuneiform transliteration given as a ´string´ into signs.
+Tokenizes Oracc cuneiform transliteration given as a ´string´ into signs. TODO: Determinatives, phonetic complements.
 
 ## download_corpora.py
 
