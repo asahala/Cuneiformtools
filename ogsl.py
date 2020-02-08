@@ -12,7 +12,7 @@ import cuneiformtools as ct
                                                     Aleksi Sahala 2020
                                                             2020-02-06
 
-  Credits:
+  Thanks:
       Stephen Tinney for OGSL (https://github.com/oracc/ogsl)
       Niek Veldhuis for providing me with OGSL in JSON format
       Adam Anderson for his AA list with Labat, Borger and OBO numbers.
@@ -95,7 +95,7 @@ class Signs:
 
     def get_values(self, name, sort=False):
         """ Return values by sign name """
-        if not name.isupper():
+        if name.islower():
             name = self.get_name(name)
         values = self.list.get(name, None)
         return self.sort(values, 0, sort)
@@ -110,20 +110,20 @@ class Signs:
     def get_abstract(self, sign, sort=False):
         """ Get all signs that have a given phonetic shape """
         found = []
-        C = 'bdfgĝŋhḫjklmnpqrřȓsšṣtṭvwxyz'
+        C = 'bdfgĝŋhḫjklmnpqrřȓsšśṣtṭvwxyz'
         V = 'aiueo'
         chars = {'V': '([%s])' % V,
                  'C': '([%s])' % C,
                  ':': r'\_',
                  '.': '([%s%s])' % (C, V),
-                 '*': '([%s%s])*' % (C, V)}
+                 '*': '([%s%s-])*' % (C, V)}
         regex = ''
+        """ Set regex back-references """
         group = 0
-        """ Handle sound quantity """
         for c in ''.join([chars.get(c, c) for c in sign]):
             if c == ')':
                 group += 1
-            if c == '_':
+            elif c == '_':
                 c = str(group)
             regex += c
         found = list(self._collect_phonemic(regex))
@@ -165,8 +165,13 @@ class Signs:
             return key.get(source, None)
             
 ogsl = Signs()
-#print(x)
-x = ogsl.get_abstract('*app*', sort=True)
-#x = ogsl.get_homonyms('par', sort_by='value', sort=True)
-for v in x:
-    print(v)
+def demo():
+    #print(x)
+    #x = ogsl.get_abstract('*C:*C:*', sort=True)
+    #x = ogsl.contains_sign('LAGAB', position='initial')
+    #x = ogsl.get_homonyms('an')
+    if isinstance(x, str):
+        print(x)
+    else:
+        for v in x:
+            print(v)
