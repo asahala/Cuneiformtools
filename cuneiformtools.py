@@ -8,6 +8,7 @@ from alphabet import INDEX, ALPHABET, REMOVE_INDEX, ASCII_INDEX, ZERO
 """ C U N E I F O R M   T O O L S ================================
 
                                                 Aleksi Sahala 2020
+                                                2020-02-09
 
 CuneiformSorter.sort(list, sort_index)
 
@@ -60,9 +61,9 @@ class CuneiformSorter:
             for word in text:
                 scan(word)
         else:
-            print('validate() argument must be string or list/tuple of strings.')
+            print('validate() arg must be string or list/tuple of strings.')
        
-    def sort(self, array, sort_index=3):
+    def sort(self, array, sort_index=0):
 
         if not array:
             return array
@@ -75,7 +76,7 @@ class CuneiformSorter:
             except ValueError:
                 print("Unable to sort due to unknown alphabet:")
                 self.validate(array)
-                print("Add symbols to cuneiformtools.py alphabet definitions.")
+                print("Add symbols to alphabet.py definitions.")
 
         def un_zero_fill(string):
             return string.replace(ZERO, '')
