@@ -56,7 +56,7 @@ Return (list) of values that have a given phonetic/syllabic shape. ´pattern´ i
 
 For example: get all readings with two geminata:
  
-    get_abstract("\*C:\*C:\*") 
+    get_abstract("*C:*C:*") 
     >>> ('abbununna', '|UD.HU.HI.NUN|')
         ('abbununnaₓ', '|UD.HU.HI.NUN|')
         ('abbununnu', '|UD.HU.HI.NUN|')
