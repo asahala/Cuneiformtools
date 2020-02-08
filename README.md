@@ -1,6 +1,18 @@
 # Cuneiformtools
 Tools for processing cuneiform languages
 
+## AA_signlist.json
+Borger, Labat and OBO numbers baseed on Adam Anderson's spreadsheet
+
+## oracc-sign-distribution.json
+Sign distributions collected from Oracc.
+
+    {"dialect|period":
+        { "sign_name": 
+           {"reading": freq, ...}
+        ... }
+    ... }
+
 ## alphabet.py
 
 Contains alphabetic definitions and sign order in Adam Anderson's sign list. This should not be modified called unless you encounter undefined characters using sort-function in Cuneiformtools.CuneiformSorter() module.
@@ -70,4 +82,4 @@ Contains tools for downloading sign lists from different corpora and checking th
 
 ## parse-oracc-vrt.py
 
-Builds dialect/period-wise sign list based on Oracc data. Supports the Korp (korp.csc.fi) VRT input only.
+Builds dialect/period-wise sign list based on Oracc data. Supports the Korp (korp.csc.fi) VRT input only (file not included). Produces sub-sign lists form the oracc-sign-distribution.json
