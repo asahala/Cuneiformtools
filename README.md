@@ -35,7 +35,15 @@ Return (list) of values that have a given phonetic/syllabic shape. ´pattern´ i
     . = any single sound
     * = 0 or more anything
 
-For example: "\*C:\*" will get all readings with that contain any geminate.
+For example: "\*C:\*C:\*" will get all readings with that contain two geminata.
+
+    ('abbununna', '|UD.HU.HI.NUN|')
+    ('abbununnaₓ', '|UD.HU.HI.NUN|')
+    ('abbununnu', '|UD.HU.HI.NUN|')
+    ('abbununnuₓ', '|UD.HU.HI.NUN|')
+    ('ibbanunna', '|UD.HU.HI.NUN|')
+    ('ibbanunnaₓ', '|UD.HU.HI.NUN|')
+    ('illamma', '|LAGAB×IM|')
 
 #### contains_sign(sign, position)   
 Return (list) of compound signs that contain ´sign´. The argument ´position´ may be: "final", "initial", "middle" or "any". E.g. PA with position flag "initial" will find PA.TE.SI, PA.LU
