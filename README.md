@@ -40,10 +40,10 @@ Return (list) of readings for ´sign´Set ´sort´ to True to sort the values.
 Return (list) of phonetic sequences like ´string´. 
 
     get_homophones('an', sort=True)
-    >>> ('an', 'AN')
-        ('anₓ', 'DIŠ')
-        ('anₓ', '|EZEN×BAD|')
-        ('an₂', '|GIŠ%GIŠ|')
+    >>> [('an', 'AN'),
+         ('an₂', '|GIŠ%GIŠ|'),
+         ('anₓ', 'DIŠ'),
+         ('anₓ', '|EZEN×BAD|')]
 
 #### get_abstract(pattern)              
 Return (list) of values that have a given phonetic/syllabic shape. ´pattern´ is a string that may consist of the following special symbols:
