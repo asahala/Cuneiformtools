@@ -55,3 +55,11 @@ Validate ´input´ that can be either a single string or a list or tuple of stri
 
 #### Tokenizer().separate(string)
 Tokenizes Oracc cuneiform transliteration given as a ´string´ into signs.
+
+## download_corpora.py
+
+Contains tools for downloading sign lists from different corpora and checking their contents against OGSL.
+
+## parse-oracc-vrt.py
+
+Builds dialect/period-wise sign list based on Oracc data. Supports the Korp (korp.csc.fi) VRT input only.
