@@ -25,18 +25,25 @@ Contains tools for performing variety of searches from the OGSL sign list:
 Return (str) standard Unicode representation for ASCII ´string´: e.g. "RE2" -> "RE₂"
 
 #### get_name(reading)
-Return (str) sign name for ´reading´: e.g. "lil₂" -> "KID"
+Return (str) sign name for ´reading´.
+
+    get_name('an')
+    >>> AN
     
 #### get_values(sign, sort)
-Return (list) of readings for ´sign´, e.g. ZI --> se₂, si₂ ṣe₂ ṣi₂ ze ... Set ´sort´ to True to sort the values.
+Return (list) of readings for ´sign´Set ´sort´ to True to sort the values.
 
+    get_values('RI', sort=True)
+    >>> ['bagₓ', 'bakₓ', 'dal', 'dala', 'de₅', 'degₓ', 'di₅' ...]
+    
 #### get_homophones(string, sort)              
-Return (list) of phonetic sequences like ´string´. For example, *an* returns:
+Return (list) of phonetic sequences like ´string´. 
 
-    ('an', 'AN')
-    ('anₓ', 'DIŠ')
-    ('anₓ', '|EZEN×BAD|')
-    ('an₂', '|GIŠ%GIŠ|')
+    get_homophones('an', sort=True)
+    >>> ('an', 'AN')
+        ('anₓ', 'DIŠ')
+        ('anₓ', '|EZEN×BAD|')
+        ('an₂', '|GIŠ%GIŠ|')
 
 #### get_abstract(pattern)              
 Return (list) of values that have a given phonetic/syllabic shape. ´pattern´ is a string that may consist of the following special symbols:
@@ -47,15 +54,16 @@ Return (list) of values that have a given phonetic/syllabic shape. ´pattern´ i
     . = any single sound
     * = 0 or more anything
 
-For example: "\*C:\*C:\*" will get all readings with that contain two geminata.
-
-    ('abbununna', '|UD.HU.HI.NUN|')
-    ('abbununnaₓ', '|UD.HU.HI.NUN|')
-    ('abbununnu', '|UD.HU.HI.NUN|')
-    ('abbununnuₓ', '|UD.HU.HI.NUN|')
-    ('ibbanunna', '|UD.HU.HI.NUN|')
-    ('ibbanunnaₓ', '|UD.HU.HI.NUN|')
-    ('illamma', '|LAGAB×IM|')
+For example: get all readings with two geminata:
+ 
+    get_abstract("\*C:\*C:\*") 
+    >>> ('abbununna', '|UD.HU.HI.NUN|')
+        ('abbununnaₓ', '|UD.HU.HI.NUN|')
+        ('abbununnu', '|UD.HU.HI.NUN|')
+        ('abbununnuₓ', '|UD.HU.HI.NUN|')
+        ('ibbanunna', '|UD.HU.HI.NUN|')
+        ('ibbanunnaₓ', '|UD.HU.HI.NUN|')
+        ('illamma', '|LAGAB×IM|')
 
 #### contains_sign(sign, position)   
 Return (list) of compound signs that contain ´sign´. The argument ´position´ may be: "final", "initial", "middle" or "any". E.g. PA with position flag "initial" will find PA.TE.SI, PA.LU
