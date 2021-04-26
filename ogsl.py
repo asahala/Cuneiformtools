@@ -13,7 +13,7 @@ import cuneiformtools as ct
                                                             2020-02-06
 
   Thanks:
-      Stephen Tinney for OGSL (https://github.com/oracc/ogsl)
+      Steve Tinney for OGSL (https://github.com/oracc/ogsl)
       Niek Veldhuis for providing me with OGSL in JSON format
       Adam Anderson for his AA list with Labat, Borger and OBO numbers.
 
