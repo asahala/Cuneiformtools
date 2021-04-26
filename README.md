@@ -2,7 +2,7 @@
 Tools for processing cuneiform languages
 
 ## AA_signlist.json
-Borger, Labat and OBO numbers baseed on Adam Anderson's spreadsheet
+Borger, Labat and OBO numbers based on Adam Anderson's spreadsheet
 
 ## oracc-sign-distribution.json
 Sign distributions collected from Oracc.
