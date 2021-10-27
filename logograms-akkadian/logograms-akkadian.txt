@@ -1,0 +1,5337 @@
+# asahala 2021
+# Akkadian dictionary forms for logograms in Oracc
+# File structure
+# :: LOGOGRAM
+#    akkadian reading, translation and frequency in Oracc
+# 
+
+:: 1.KUŠ₃
+    ammatu "unit" (142)
+
+:: 2.TA.AM₃
+    šinnû "two each" (1)
+
+:: 3-TA.AM₃
+    šuluša "three each" (1)
+
+:: 4.AM₃
+    erbe "four" (1)
+
+:: 7-AM₃
+    sebe "seven" (1)
+
+:: A
+    māru "son" (623)
+    mû "water" (8)
+    aplu "son" (3)
+    aplu "heir" (1)
+
+:: A-MEŠ
+    mû "water" (5)
+
+:: A.A
+    abu "father" (1)
+
+:: A.AB.BA
+    tiāmtu "sea" (84)
+
+:: A.AB.BA.MEŠ
+    tiāmtu "sea" (11)
+
+:: A.BA
+    ṭupšarru "scribe" (2)
+
+:: A.BAR₂
+    abāru "(the metal) lead" (5)
+
+:: A.GAR₃
+    ugāru "grassland" (6)
+
+:: A.GAR₃.MEŠ
+    ugāru "grassland" (4)
+
+:: A.GUB₂.BA{MEŠ}
+    agubbû "holy water vessel" (1)
+
+:: A.GUR{MEŠ}
+    agurru "baked brick" (2)
+
+:: A.MEŠ
+    mû "water" (218)
+
+:: A.MU.RU
+    šarāku "present" (2)
+
+:: A.ZU
+    ṭupšarru "scribe" (1)
+
+:: A.ZU.MEŠ
+    asû "physician" (1)
+
+:: A.ŠA₃
+    eqlu "field" (63)
+
+:: A.ŠA₃.MEŠ
+    eqlu "field" (14)
+
+:: A.ŠA₃{MEŠ}
+    eqlu "field" (2)
+
+:: AB.SAR
+    šaṭru "written" (2)
+
+:: AB.ZU
+    apsû "(cosmic) underground water" (1)
+
+:: ABGAL
+    apkallu "wise man" (37)
+
+:: ABZU
+    apsû "(cosmic) underground water" (7)
+
+:: AB₂
+    warhu "month" (14)
+
+:: AB₂.GU₄.HI.A
+    lītu "cow" (2)
+    sugullu "herd" (1)
+
+:: AB₂.GU₄{HI.A}
+    lītu "cow" (4)
+
+:: AD
+    abu "father" (212)
+
+:: AD.HAL
+    pirištu "secret plot" (1)
+
+:: AD.ME.KAR₂
+    šattu "year" (7)
+
+:: AD.MEŠ
+    abu "father" (2)
+
+:: ADDA
+    pagru "body" (3)
+
+:: ADDA.MEŠ
+    pagru "body" (7)
+
+:: AGA
+    agû "tiara" (37)
+
+:: AGA{MEŠ}
+    aqû "tiara" (1)
+
+:: AGA₂
+    râmu "love" (8)
+    rāʾimu "one who loves" (2)
+
+:: AGRIG
+    mašennu "(an administrator)" (1)
+
+:: AG₂
+    râmu "love" (2)
+
+:: AL.TIL
+    qatû "ended" (6)
+
+:: ALAM
+    ṣalmu "effigy" (32)
+
+:: ALAM.MEŠ
+    ṣalmu "effigy" (8)
+
+:: ALAM{MEŠ}
+    ṣalmu "effigy" (1)
+
+:: AM
+    rīmu "wild bull" (5)
+
+:: AM.AM
+    rīmu "wild bull" (1)
+
+:: AM.MEŠ
+    rīmu "wild bull" (20)
+
+:: AM.SI
+    pīru "elephant" (77)
+
+:: AM.SI.MEŠ
+    pīru "elephant" (21)
+
+:: AM.SI{MEŠ}
+    pīru "elephant" (3)
+
+:: AMA
+    ummu "mother" (30)
+
+:: AMBAR.MEŠ
+    appāru "reed-bed" (10)
+
+:: AN
+    šamû "sky" (3466)
+    šamû "rain" (346)
+    šamû "heaven" (36)
+
+:: AN.BAR
+    parzillu "iron" (105)
+
+:: AN.BAR.MEŠ
+    parzillu "iron" (13)
+
+:: AN.BAR₇
+    muṣlālu "siesta-(time)" (118)
+    muṣlālu "siesta(-time)" (26)
+
+:: AN.DUL₃
+    ṣulūlu "roof" (1)
+
+:: AN.GUB.BA.MEŠ
+    angubbû "standing in the sky" (2)
+
+:: AN.KU₁₀
+    antallû "eclipse" (122)
+
+:: AN.MI
+    antallû "eclipse" (3)
+
+:: AN.NA
+    annaku "tin" (19)
+
+:: AN.NA.MEŠ
+    annaku "tin" (57)
+
+:: AN.PA
+    elītu&amp;&amp;šamû "that which is above&amp;&amp;heaven" (4)
+    elât-šamê "zenith" (1)
+
+:: AN.TA
+    elēnu "above" (16)
+    elû "upper" (14)
+    eliš "above" (12)
+    elītu "that which is above" (5)
+    elû "top" (1)
+
+:: AN.TA.MEŠ
+    elītu "that which is above" (1)
+
+:: AN.TI.LA
+    balāṭu "live" (2)
+
+:: AN.UR₂
+    išdu&amp;&amp;šamû "foundation&amp;&amp;heaven" (4)
+
+:: AN.ZA.GAR₃.MEŠ
+    dimtu "tower" (1)
+
+:: ANŠE
+    imēru "unit" (53)
+    imēru "donkey" (22)
+
+:: ANŠE.A.AB.BA.MEŠ
+    ibilu "camel" (21)
+    gammalu "camel" (2)
+
+:: ANŠE.EDIN.NA
+    serrēmu "onager" (2)
+
+:: ANŠE.EDIN.NA.MEŠ
+    serrēmu "onager" (7)
+
+:: ANŠE.GAM.MAL
+    gammalu "camel" (4)
+
+:: ANŠE.GAM.MAL.MEŠ
+    gammalu "camel" (76)
+
+:: ANŠE.GIR₃.NUN.NA.MEŠ
+    kūdanu "mule" (16)
+
+:: ANŠE.KUNGA.MEŠ
+    parû "mule" (103)
+
+:: ANŠE.KUR.MEŠ
+    sisû "horse" (1)
+
+:: ANŠE.KUR.RA
+    sisû "horse" (22)
+
+:: ANŠE.KUR.RA.MEŠ
+    sisû "horse" (296)
+
+:: ANŠE.KUR.RA{MEŠ}
+    sisû "horse" (1)
+
+:: ANŠE.MEŠ
+    imēru "donkey" (101)
+
+:: ANŠE.NITA₂.MEŠ
+    imēru "donkey" (10)
+
+:: ANŠE.NUN.NA.MEŠ
+    damdāmu "(a kind of mule)" (1)
+
+:: ARAD
+    wardu "slave" (37)
+
+:: ARAD.MEŠ
+    wardu "slave" (23)
+
+:: ARHUŠ
+    rēmu "womb" (4)
+
+:: AS₄.LUM
+    aslu "unit" (50)
+
+:: AZAG₂
+    asakku "(an evil demon)" (4)
+
+:: A{MEŠ}
+    mû "water" (7)
+
+:: AŠ.AM₃
+    kawû "outer" (1)
+    ištēn "one" (1)
+
+:: AŠ.TI
+    kussû "chair" (1)
+
+:: A₂
+    idu "arm" (91)
+    ittu "peculiarity" (2)
+
+:: A₂.DAH
+    rīṣu "help" (1)
+
+:: A₂.GAL₂
+    lēʾû "powerful" (4)
+
+:: A₂.II
+    idu "arm" (1)
+
+:: A₂.MEŠ
+    emūqu "strength" (27)
+    ittu "peculiarity" (19)
+
+:: BA
+    qiāšu "give" (21)
+
+:: BA.AN.E₃
+    barû "seen" (1)
+
+:: BABBAR
+    peṣû "white" (2)
+
+:: BABBAR.MEŠ
+    peṣû "white" (3)
+
+:: BAD
+    petû "open" (26)
+
+:: BAD₃
+    dūru "(city) wall" (201)
+    dūru "wall" (1)
+
+:: BAD₃.MEŠ
+    dūru "(city) wall" (32)
+
+:: BAD₃.ŠUL.HI
+    šalhû "outer wall" (5)
+
+:: BAD₃.ŠUL.HU
+    šalhû "outer wall" (1)
+
+:: BAD₃{KI}
+    dūru "(city) wall" (16)
+
+:: BAD₄
+    dannatu "fortified (place)" (1)
+
+:: BAD₅.BAD₅
+    dabdû "defeat" (22)
+
+:: BAL
+    naqû "pour (a libation)" (4)
+    nabalkutu "cross over" (2)
+
+:: BAL.GI{KU₆}
+    raqqu "turtle" (2)
+
+:: BAL.MEŠ
+    nabalkutu "having crossed over" (1)
+
+:: BAL.RI
+    ebertu "bank" (4)
+
+:: BALA
+    palû "reign (of a king)" (6)
+
+:: BALA.MEŠ
+    palû "reign (of a king)" (10)
+
+:: BAL{ME}
+    enû "change" (1)
+
+:: BAL{MEŠ}
+    nabalkutu "cross over" (1)
+
+:: BANŠUR.MEŠ
+    paššuru "dining tray" (1)
+
+:: BAN₂
+    sūtu "(a capacity measure)" (6)
+    sūtu "sūtu" (5)
+
+:: BAN₃.DA
+    ṣehru "small" (1)
+
+:: BAR
+    ahû "outside(r)" (19)
+    mišlu "half" (1)
+    kidinnu "protection" (1)
+
+:: BARAG.SIG₉.GA
+    barasiggû "house altar" (1)
+
+:: BARA₂
+    parakku "dais" (48)
+    parakku "cult dais" (1)
+
+:: BARA₂.MAH
+    paramāhu "high throne-dais" (3)
+
+:: BARA₂.MEŠ
+    parakku "dais" (11)
+
+:: BAR₂
+    parakku "dais" (5)
+
+:: BAR₂{MEŠ}
+    parakku "dais" (1)
+
+:: BE
+    šumma "if" (34)
+
+:: BI
+    šū "he" (769)
+    šī "she" (3)
+
+:: BIL.ZA.ZA
+    muṣaʾʾirānu "frog" (1)
+
+:: BIL₂
+    eššu "new" (1)
+
+:: BIL₂{MEŠ}
+    eššu "new" (1)
+
+:: BIR
+    naspuhtu "dispersal" (1)
+
+:: BIR.MEŠ
+    saphu "scattered" (8)
+    saphu "scattered one" (1)
+
+:: BIR{MEŠ}
+    sapāhu "scatter" (1)
+
+:: BULUG
+    pulukku "boundary marker" (1)
+
+:: BUR.GUL.MEŠ
+    parkullu "stone carver" (1)
+
+:: BUR.SAG.GA₂
+    bursaggu "(a kind of offering)" (1)
+
+:: BURU₁₄
+    ebūru "harvest" (31)
+
+:: BURU₁₄.MEŠ
+    ebūru "harvest" (1)
+
+:: BURU₁₄{MEŠ}
+    ebūru "harvest" (1)
+
+:: BURU₅
+    erbû "locust" (17)
+
+:: BURU₅.HI.A
+    erbû "locust" (7)
+
+:: BURU₅.HI.A.MEŠ
+    erbû "locust" (1)
+
+:: BURU₅.MEŠ
+    erbû "locust" (1)
+
+:: BURU₅{HI.A}
+    erbû "locust" (19)
+
+:: BUR₁₄
+    ebūru "harvest" (1)
+
+:: BUR₂.GAL
+    ušumgallu "lion-dragon" (1)
+
+:: BUR₂{ME}
+    pašāru "release" (1)
+
+:: DA
+    idu "arm" (9)
+    ṭehû "be(come) near to" (7)
+
+:: DA.RI₂.A
+    dārû "lasting" (1)
+
+:: DAGAL
+    rupšu "width" (32)
+    rapšu "wide" (16)
+
+:: DAGAL.MEŠ
+    rapšu "wide" (57)
+
+:: DAL.BA.AN.NA
+    birītu "space between" (1)
+
+:: DALA₂
+    ṣillû "thorn" (2)
+
+:: DAM
+    aššatu "wife" (6)
+
+:: DANA
+    bēru "double hour" (2)
+
+:: DANNA
+    bēru "double hour" (9)
+
+:: DANNA.AM₃
+    bēru "double hour" (1)
+
+:: DAR.LUGAL.MEŠ{MUŠEN}
+    tarlugallu "rooster" (6)
+
+:: DARA₃
+    turāhu "ibex" (1)
+
+:: DARA₃.MAŠ.MEŠ
+    ayyalu "stag" (7)
+
+:: DARA₃.MEŠ
+    turāhu "ibex" (1)
+
+:: DI.KUD
+    dayyānu "judge" (17)
+    uršānu "warrior" (1)
+
+:: DI.KUD.GAL
+    dikuggallu "chief justice" (2)
+
+:: DI.KUD.GAL.LA
+    dikuggallu "chief justice" (1)
+
+:: DI.KU₅
+    dayyānu "judge" (7)
+
+:: DI.KU₅.GAL
+    dikuggallu "chief justice" (14)
+
+:: DIB
+    etēqu "go past" (1391)
+    ṣabātu "seize" (15)
+
+:: DIB.DIB{MEŠ}
+    ṣabātu "seize" (1)
+
+:: DIB{MEŠ}
+    ṣabātu "seize" (1)
+
+:: DIDA
+    billatu "mixture" (1)
+
+:: DILIM₂
+    itqūru "spoon" (1)
+
+:: DIM₄
+    sanāqu "check" (10)
+
+:: DINGIR
+    ilu "god" (203)
+
+:: DINGIR-MEŠ
+    ilu "god" (4)
+
+:: DINGIR.DINGIR
+    ilu "god" (61)
+
+:: DINGIR.DINGIR.MEŠ
+    ilu "god" (1)
+
+:: DINGIR.ME
+    ilu "god" (31)
+
+:: DINGIR.MEŠ
+    ilu "god" (1611)
+
+:: DINGIR{MEŠ}
+    ilu "god" (39)
+
+:: DIR
+    erpetu "cloud" (3186)
+    sāmu "red" (1)
+
+:: DIŠ
+    ištēn "one" (3)
+
+:: DU
+    alāku "go" (24)
+    alku "going" (2)
+
+:: DU.DU
+    alāku "go" (2)
+
+:: DU.MEŠ
+    alāku "go" (3)
+
+:: DUB
+    ṭuppu "tablet" (22)
+
+:: DUB-MEŠ
+    ṭuppu "tablet" (3)
+
+:: DUB.MEŠ
+    ṭuppu "tablet" (2)
+
+:: DUB.SAR
+    ṭupšarru "scribe" (16)
+
+:: DUG.MEŠ
+    ṭābu "good" (1)
+
+:: DUG.ŠAB.MEŠ
+    šappu "bowl" (1)
+
+:: DUGUD
+    kabtu "heavy" (15)
+    imbaru "fog" (7)
+
+:: DUG₃
+    ṭūbu "goodness" (1)
+
+:: DUG₃.GA
+    ṭābu "good" (110)
+    ṭūbu "goodness" (3)
+
+:: DUG₃.GA.MEŠ
+    ṭābu "good" (1)
+
+:: DUG₃.GA{MEŠ}
+    ṭābu "good" (1)
+
+:: DUG₃.MEŠ
+    ṭābu "good" (1)
+
+:: DUG₄-GA
+    qabû "say" (1)
+
+:: DUH.LAL₃
+    iškūru "wax" (2)
+
+:: DUL
+    tīlu "(ruin) mound" (2)
+
+:: DUMU
+    māru "son" (925)
+
+:: DUMU-MEŠ
+    māru "son" (1)
+
+:: DUMU.DUMU
+    māru "son" (8)
+
+:: DUMU.ME
+    māru "son" (6)
+
+:: DUMU.MEŠ
+    māru "son" (213)
+
+:: DUMU.MUNUS
+    mārtu "daughter" (31)
+
+:: DUMU.MUNUS.MEŠ
+    mārtu "daughter" (21)
+
+:: DUMU{MEŠ}
+    māru "son" (3)
+
+:: DUNGU
+    urpatu "cloud" (9)
+    erpetu "cloud" (1)
+
+:: DUR
+    riksu "band" (3)
+
+:: DU{ME}
+    alāku "go" (1)
+
+:: DU₁₁
+    qabû "say" (3)
+
+:: DU₃
+    kalû "totality" (37)
+    epēšu "do" (21)
+    bānû "creator" (8)
+    ēpišu "doer" (2)
+    banû "good" (1)
+
+:: DU₃.A.BI
+    kalāma "all (of it)" (8)
+
+:: DU₃{ME}
+    epēšu "do" (1)
+
+:: DU₃{MEŠ}
+    epēšu "do" (8)
+
+:: DU₆
+    tīlu "(ruin) mound" (119)
+
+:: DU₆.MEŠ
+    diʾu "(deity&apos;s) throne-platform" (6)
+    tīlu "(ruin) mound" (3)
+
+:: E
+    elû "go up" (7)
+    īku "dyke" (3)
+
+:: E.SIR₂
+    šēnu "sandal" (20)
+
+:: EDIN
+    ṣēru "back" (163)
+
+:: EDIN.MEŠ
+    ṣēru "back" (1)
+
+:: EDIN{MEŠ}
+    ṣēru "back" (1)
+
+:: EGIR
+    warki "after" (37)
+    warkû "rear" (27)
+    warkītu "posterity" (15)
+    warka "afterwards" (4)
+
+:: EGIR-BI
+    warkatu "rear" (1)
+
+:: EGIR.MEŠ
+    warkû "rear" (8)
+    warkītu "posterity" (5)
+
+:: EGI₂
+    rubātu "queen" (1)
+
+:: EME
+    lišānu "tongue" (9)
+
+:: EME-MEŠ
+    lišānu "tongue" (1)
+
+:: EME.MEŠ
+    lišānu "tongue" (1)
+
+:: EN
+    adi "until" (908)
+    bēlu "lord" (748)
+
+:: EN.EN
+    bēlu "lord" (48)
+
+:: EN.MEŠ
+    bēlu "lord" (40)
+
+:: EN.NAM
+    bēlu&amp;&amp;pīhātu "lord&amp;&amp;post" (3)
+
+:: EN.NAM.MEŠ
+    bēlu&amp;&amp;pīhātu "lord&amp;&amp;post" (1)
+
+:: EN.NUN
+    naṣāru "guard" (96)
+    maṣṣartu "observation" (14)
+    maṣṣartu "watch" (1)
+
+:: EN.NUN.MEŠ
+    maṣṣaru "guard" (3)
+    maṣṣartu "observation" (1)
+
+:: EN.NUN.MURUB₄
+    qablītu "middle watch (of the night)" (11)
+
+:: EN.NUN.MURUB₄.BA
+    qablītu "middle watch (of the night)" (2)
+
+:: EN.NUN.USAN
+    šimītān "evening" (2)
+
+:: EN.NUN.U₄.ZAL
+    šāt-urri "third watch of the night" (16)
+
+:: EN.NUN.U₄.ZAL.LA
+    šāt-urri "third watch of the night" (7)
+
+:: EN.NUN{MEŠ}
+    maṣṣartu "observation" (1)
+
+:: EN.TE.NA
+    kūṣu "coldness" (8)
+
+:: EN.URU
+    bēlu&amp;&amp;ālu "lord&amp;&amp;city" (2)
+
+:: EN.URU.MEŠ
+    bēlu&amp;&amp;ālu "lord&amp;&amp;city" (2)
+
+:: ENSI₂
+    iššiakku "city-ruler" (178)
+
+:: EN₂{MEŠ}
+    šiptu "incantation" (1)
+
+:: EREN
+    erēnu "cedar" (1)
+
+:: ERIM
+    ummānu "military force" (7)
+    ṣābu "people" (2)
+
+:: ERIM-HI.A.MEŠ
+    ummānu "military force" (1)
+
+:: ERIM.HI
+    ummānu "military force" (1)
+
+:: ERIM.HI.A
+    ummānu "military force" (54)
+
+:: ERIM.HI.A-MEŠ
+    ummānu "military force" (1)
+
+:: ERIM.HI.A.MEŠ
+    ummānu "military force" (43)
+
+:: ERIM.MEŠ
+    ummānu "military force" (139)
+    ṣābu "people" (61)
+
+:: ERIM.MEŠ.HI.A.MEŠ
+    ummānu "military force" (1)
+
+:: ERIN₂
+    uqu "people" (14)
+
+:: ERIN₂-MEŠ
+    ṣābu "troops" (2)
+
+:: ERIN₂.MEŠ
+    ṣābu "people" (47)
+
+:: ERIN₂{ME}
+    uqu "people" (1)
+
+:: ERIN₂{MEŠ}
+    uqu "people" (66)
+
+:: ER₂.ŠA₃.HUN.GA₂
+    eršahungû "(an Emesal cultic prayer)" (1)
+
+:: ESIR
+    iṭṭû "bitumen" (3)
+    kupru "bitumen" (2)
+
+:: ESIR.HI.A
+    iṭṭû "bitumen" (1)
+
+:: ESIR.UD.A
+    kupru "bitumen" (20)
+
+:: ESIR.UD.DU.A
+    kupru "bitumen" (5)
+
+:: EZEN
+    isinnu "festival" (2)
+
+:: EZEN.MEŠ
+    isinnu "festival" (2)
+
+:: EŠ.BAR
+    purussû "(legal) decision" (26)
+    purussû "decision" (1)
+
+:: EŠ₁₈.TAR₂
+    ištaru "goddess" (2)
+
+:: EŠ₂.GAR₃
+    iškaru "work assignment" (1)
+
+:: E₁₁
+    elû "go up" (4)
+
+:: E₁₁{MEŠ}
+    elû "go up" (1)
+
+:: E₂
+    bītu "house" (1248)
+    bīt "tmeple" (1)
+
+:: E₂-EDIN
+    bītu&amp;&amp;ṣēru "house&amp;&amp;back" (1)
+
+:: E₂-IGI.DU₈.A
+    bīt-tāmarti "theater" (5)
+
+:: E₂-IGI.DU₈{MEŠ}
+    bīt-tāmarti "theater" (1)
+
+:: E₂.AN.NA
+    ayyakku "(a type of sanctuary)" (5)
+
+:: E₂.BAR
+    šangû "priest" (1)
+
+:: E₂.DURU₅.MEŠ
+    adurû "village" (3)
+
+:: E₂.GAL
+    ēkallu "palace" (689)
+    ekallu "palace" (5)
+
+:: E₂.GAL.MEŠ
+    ēkallu "palace" (59)
+
+:: E₂.GAL.TUR.RA
+    egalturrû "little palace" (25)
+
+:: E₂.GAR₈
+    igāru "wall" (13)
+
+:: E₂.GAR₈.MEŠ
+    igāru "wall" (2)
+
+:: E₂.GI₄.A
+    kallātu "daughter-in-law" (1)
+
+:: E₂.HI.A
+    bītu "house" (3)
+
+:: E₂.HI.A.MEŠ
+    bītu "house" (1)
+
+:: E₂.KI.NA₂.MEŠ
+    bītu&amp;&amp;mayyālu "house&amp;&amp;bed" (1)
+
+:: E₂.KUR
+    ēkurru "temple" (70)
+
+:: E₂.KUR.MEŠ
+    ēkurru "temple" (29)
+
+:: E₂.KUR.RA.MEŠ
+    ēkurru "temple" (1)
+
+:: E₂.ME
+    bītu "house" (1)
+
+:: E₂.MEŠ
+    bītu "house" (24)
+
+:: E₂.MUN
+    bītu&amp;&amp;ṭabtu "house&amp;&amp;salt" (10)
+
+:: E₂.SIG₄
+    igāru "wall" (1)
+
+:: E₂.SIG₄-MEŠ
+    igāru "wall" (1)
+
+:: E₂{MEŠ}
+    bītu "house" (5)
+
+:: E₃
+    waṣû "go out" (34)
+    ṣītu "exit" (7)
+
+:: E₃{ME}
+    waṣû "go out" (1)
+
+:: E₃{MEŠ}
+    waṣû "go out" (3)
+
+:: GA-MEŠ
+    šizbu "milk" (1)
+
+:: GA.MEŠ
+    šizbu "milk" (1)
+
+:: GA.RAŠ{SAR}
+    karašu "leek" (1)
+
+:: GABA
+    irtu "breast" (9)
+    mehretu "opposite side" (1)
+
+:: GABA.MEŠ
+    irtu "breast" (4)
+
+:: GABA.RI
+    gabarû "copy" (12)
+    māhiru "opponent" (1)
+
+:: GADA
+    kitû "flax" (11)
+
+:: GADA.LA₂
+    gadalalû "linen fabric" (2)
+
+:: GADA.MAH.MEŠ
+    gadamāhu "superior linen garment" (1)
+
+:: GADA.MEŠ
+    kitû "flax" (10)
+
+:: GAG.MEŠ
+    sikkatu "peg" (1)
+
+:: GAL
+    rabû "great" (410)
+    rabû "great one" (57)
+    dipāru "torch" (15)
+    rabû "large" (11)
+    rabû "big" (4)
+
+:: GAL.BI.LUL.MEŠ
+    rabû&amp;&amp;šāqû "great&amp;&amp;steward" (1)
+
+:: GAL.GAL
+    rabû "great" (31)
+    rabû "large" (21)
+
+:: GAL.ME
+    rabû "great" (17)
+
+:: GAL.MEŠ
+    rabû "great" (821)
+    rabû "great one" (1)
+
+:: GAL.MUŠEN.MEŠ
+    iṣṣūru&amp;&amp;rabû "bird&amp;&amp;great" (1)
+
+:: GALA{MEŠ}
+    kalû "lamentation-priest" (1)
+
+:: GAL{MEŠ}
+    rabû "large" (26)
+    rabû "big" (1)
+
+:: GAL₂
+    bašû "be" (18)
+
+:: GAL₂.MEŠ
+    bašû "be" (2)
+
+:: GAL₅.LA₂
+    gallû "(a demon)" (6)
+
+:: GAL₅.LA₂.MEŠ
+    gallû "(a demon)" (3)
+
+:: GAR
+    šakānu "put" (123)
+    šaknu "appointee" (116)
+    šiknu "act of putting" (11)
+    šaknu "placed" (3)
+    šākinu "one who places" (2)
+
+:: GAR.KUR
+    šaknu&amp;&amp;mātu "appointee&amp;&amp;land" (10)
+
+:: GAR.MEŠ
+    šaknu "placed" (2)
+
+:: GAR.RA.MEŠ
+    uhhuzu "overlaid" (4)
+
+:: GARIM
+    tamirtu "(a type of agricultural, especially irrigated, land)" (1)
+
+:: GARZA
+    parṣu "rite" (8)
+
+:: GARZA.MEŠ
+    parṣu "rite" (5)
+
+:: GAR{MEŠ}
+    šakānu "put" (7)
+
+:: GAR₃
+    abbuttu "(a hair style)" (1)
+
+:: GAZ
+    dâku "kill" (16)
+    hīpu "break(age)" (1)
+
+:: GAZ.MEŠ
+    dīktu "fighting" (3)
+    hepû "broken" (1)
+
+:: GAZI.SAR
+    kasû "(a spice plant)" (1)
+
+:: GAZI{SAR}
+    kasû "mustard" (1)
+
+:: GAZ{ME}
+    dâku "kill" (1)
+
+:: GAZ{MEŠ}
+    dâku "kill" (6)
+
+:: GAŠAN
+    bēltu "lady" (113)
+    šarrātu "queen" (6)
+
+:: GAŠAN.MEŠ
+    bēltu "lady" (4)
+
+:: GA₂.NA.MUŠEN.MEŠ
+    lurmu "ostrich" (3)
+
+:: GA₂.NU₁₁.MUŠEN.MEŠ
+    lurmu "ostrich" (2)
+
+:: GA₂.NU₁₁{MUŠEN}.MEŠ
+    lurmu "ostrich" (3)
+
+:: GEME₂
+    amtu "maid" (1)
+
+:: GEŠTIN
+    karānu "vine" (32)
+    karānu "wine" (1)
+
+:: GEŠTIN.MEŠ
+    karānu "vine" (69)
+
+:: GEŠTU
+    uznu "ear" (2)
+
+:: GEŠTU.II
+    uznu "ear" (15)
+
+:: GEŠTU.II.MEŠ
+    uznu "ear" (1)
+
+:: GEŠTU.MEŠ
+    uznu "ear" (1)
+
+:: GEŠTU{II}
+    uznu "ear" (1)
+
+:: GEŠ₂.U
+    nēr "600" (10)
+
+:: GE₆
+    mūšu "night" (10576)
+
+:: GE₆.MEŠ
+    ṣalmu "black" (1)
+
+:: GI
+    qanû "reed" (28)
+    kīnu "permanent" (2)
+
+:: GI-DUB
+    qanû&amp;&amp;ṭuppu "reed&amp;&amp;tablet" (1)
+
+:: GI-MEŠ
+    qanû "reed" (1)
+
+:: GI.AMBAR.MEŠ
+    appāru "reed-bed" (9)
+
+:: GI.DUB
+    gidubbû "stylus" (1)
+
+:: GI.MEŠ
+    qanû "reed" (19)
+    kīnu "permanent" (1)
+
+:: GI.NA
+    kīnu "permanent" (8)
+    ginû "regular contribution (to temple)" (1)
+
+:: GIB
+    parāku "lie across" (42)
+
+:: GIBIL
+    eššu "new" (5)
+    eššiš "anew" (4)
+
+:: GIBIL.MEŠ
+    eššu "new" (3)
+
+:: GIBIL{MEŠ}
+    eššu "new" (19)
+
+:: GIBIL₂
+    qilûtu "burning" (36)
+    qalû "roast" (4)
+    šarāpu "burn" (4)
+
+:: GIB{MEŠ}
+    parāku "lie across" (8)
+
+:: GIDIM.MEŠ
+    eṭemmu "ghost" (1)
+
+:: GIDRU
+    haṭṭu "stick" (1)
+
+:: GID₂
+    arāku "be(come) long" (20)
+    mūraku "length" (2)
+
+:: GID₂.DA
+    arāku "be(come) long" (25)
+    arku "long" (12)
+    mūraku "length" (6)
+
+:: GID₂.DA.MEŠ
+    arku "long" (7)
+    arāku "be(come) long" (1)
+
+:: GID₂.MEŠ
+    arāku "be(come) long" (4)
+    arku "long" (3)
+
+:: GIG
+    murṣu "illness" (14)
+    marṣu "sick" (5)
+    marṣu "patient" (1)
+
+:: GIG.MEŠ
+    marṣu "sick" (3)
+
+:: GIG{MEŠ}
+    murṣu "illness" (3)
+
+:: GIM
+    kīma "like" (369)
+
+:: GIN
+    alāku "go" (2395)
+    kânu "be(come) permanent" (24)
+    alaktu "way" (1)
+
+:: GIN{ME}
+    alāku "go" (16)
+
+:: GIN{MEŠ}
+    alāku "go" (126)
+    kânu "be(come) permanent" (1)
+
+:: GIN₂
+    šiqlu "shekel" (151)
+
+:: GIN₂.AM₃
+    šiqlu "shekel" (1)
+
+:: GIN₂.TA.AM₃
+    šiqlu "shekel" (7)
+
+:: GIR.TIR
+    qištu "forest" (1)
+
+:: GIR₂
+    birqu "lightning" (217)
+    barāqu "lighten" (97)
+    patru "knife" (27)
+    padānu "path" (3)
+    patru "sword" (1)
+
+:: GIR₂.AN.BAR
+    patru "knife" (7)
+
+:: GIR₂.AN.BAR.MEŠ
+    patru "knife" (1)
+
+:: GIR₂.GIR₂
+    barāqu "lighten" (42)
+
+:: GIR₂.MEŠ
+    patru "knife" (12)
+
+:: GIR₂.TAB
+    zuqiqīpu "scorpion" (8)
+
+:: GIR₂.TAB.LU₂.U₁₈.LU
+    girtablilu "scorpion-man" (2)
+
+:: GIR₂.TAB.MEŠ
+    zuqiqīpu "scorpion" (2)
+
+:: GIR₂{ME}
+    barāqu "lighten" (6)
+
+:: GIR₃
+    šēpu "foot" (71)
+
+:: GIR₃.ARAD
+    šakkanakku "(military) governor" (7)
+
+:: GIR₃.BAL
+    rihṣu "destruction" (3)
+
+:: GIR₃.II
+    šēpu "foot" (89)
+
+:: GIR₃.II.MEŠ
+    šēpu "foot" (8)
+
+:: GIR₃.MEŠ
+    šēpu "foot" (8)
+
+:: GIR₃.NITA
+    šakkanakku "(military) governor" (1)
+
+:: GIR₃.NITA₂
+    šakkanakku "(military) governor" (187)
+
+:: GIR₃.NITA₂.MEŠ
+    šakkanakku "(military) governor" (5)
+
+:: GIR₃.PAD.DA.MEŠ
+    eṣemtu "bone" (4)
+
+:: GIR₃.PAD.DU.MEŠ
+    eṣemtu "bone" (8)
+
+:: GIR₃{II}
+    šēpu "foot" (1)
+
+:: GISKIM
+    ittu "sign" (1)
+
+:: GISKIM.MEŠ
+    ittu "sign" (6)
+
+:: GIŠ
+    iṣu "tree" (17)
+
+:: GIŠ.BAR
+    gīru "fire(-god)" (5)
+
+:: GIŠ.EREN
+    erēnu "cedar" (2)
+
+:: GIŠ.GIGIR.MEŠ
+    narkabtu "chariot" (2)
+
+:: GIŠ.GIŠ
+    nīru "yoke" (2)
+
+:: GIŠ.GU.ZA
+    kussû "chair" (6)
+
+:: GIŠ.HI.A
+    iṣu "tree" (1)
+
+:: GIŠ.HUR
+    uṣurtu "drawing" (15)
+
+:: GIŠ.HUR.MEŠ
+    uṣurtu "drawing" (3)
+
+:: GIŠ.IG.MEŠ
+    daltu "door" (1)
+
+:: GIŠ.MEŠ
+    iṣu "tree" (43)
+
+:: GIŠ.MI
+    ṣillu "shade" (2)
+
+:: GIŠ.NIM
+    ṣītān "at sunrise" (2)
+
+:: GIŠ.NU₁₁.GAL
+    ašnugallu "alabaster" (1)
+
+:: GIŠ.SAR
+    kirû "(fruit) plantation" (1)
+
+:: GIŠ.TUKUL
+    kakku "stick" (1)
+
+:: GIŠ.UR₃
+    gušūru "tree-trunk" (4)
+
+:: GIŠ.UR₃.MEŠ
+    gušūru "tree-trunk" (103)
+
+:: GIŠ.U₃.SUH₅
+    ašūhu "pine-tree" (1)
+
+:: GIŠ.ŠU₂
+    šilān "in the sunset" (2)
+
+:: GIŠKIM
+    ittu "sign" (1)
+
+:: GIŠKIM.MEŠ
+    ittu "sign" (6)
+
+:: GI₆
+    mūšu "night" (3)
+
+:: GI₆.MEŠ
+    ṣalmu "black" (1)
+
+:: GI₆.PAR₃
+    gipāru "residence of en(t)u in temple" (1)
+
+:: GU
+    qû "flax" (1)
+
+:: GU.AN.NA
+    ešmarû "(a silver alloy)" (10)
+
+:: GU.ZA
+    kussû "chair" (1)
+
+:: GUB
+    izuzzu "stand" (715)
+    nazuzzu "standing" (1)
+
+:: GUB{ME}
+    izuzzu "stand" (1)
+
+:: GUB{MEŠ}
+    izuzzu "stand" (34)
+
+:: GUB₃
+    šumēla "on the left" (13)
+    šumēlu "the left" (1)
+
+:: GUKKAL.MEŠ
+    kukkallu "fat-tailed sheep" (3)
+
+:: GUL
+    abātu "destroy" (3)
+
+:: GUL{MEŠ}
+    abātu "destroy" (1)
+
+:: GUN
+    biltu "load" (321)
+
+:: GUN.AN.NA.MEŠ
+    biltu "load" (1)
+
+:: GUN.MEŠ
+    biltu "load" (1)
+
+:: GUN.TA.AM₃
+    biltu "load" (3)
+
+:: GUN₃
+    birmu "multicoloured cloth" (4)
+
+:: GUN₃.MEŠ
+    birmu "multicoloured" (1)
+
+:: GUR
+    kurru "kor (180 litres)" (335)
+    târu "turn" (8)
+    baʾālu "be(come) dominant" (5)
+    kurru "(measure of dry capacity)" (5)
+
+:: GURUN
+    inbu "fruit" (36)
+
+:: GURUN.MEŠ
+    inbu "fruit" (3)
+
+:: GURUN.MEŠ-NI-E-ŠU₂
+    inbu "fruit" (1)
+
+:: GURUŠ
+    eṭlu "manly one" (7)
+
+:: GUR{MEŠ}
+    târu "turn" (2)
+
+:: GUR₂
+    kippatu "circle" (1)
+
+:: GUR₇
+    karû "grain-heap" (2)
+
+:: GU₂
+    kišādu "neck" (62)
+
+:: GU₂.GAL
+    gugallu "irrigation controller" (18)
+    šarru "king" (1)
+
+:: GU₂.MEŠ
+    kišādu "neck" (1)
+
+:: GU₃
+    rigmu "voice" (232)
+
+:: GU₃.DE₂
+    šasû "shout" (3)
+
+:: GU₃.SUM
+    mihiṣtu "strike" (1)
+
+:: GU₄
+    alpu "ox" (44)
+
+:: GU₄.AB₂
+    arhu "cow" (1)
+
+:: GU₄.AB₂{MEŠ}
+    arhu "cow" (6)
+
+:: GU₄.AM.MEŠ
+    rīmu "wild bull" (15)
+
+:: GU₄.AMAR
+    būru "(bull) calf" (1)
+
+:: GU₄.AMAR.MEŠ
+    būru "(bull) calf" (3)
+
+:: GU₄.GIŠ
+    alpu&amp;&amp;nīru "ox&amp;&amp;yoke" (1)
+
+:: GU₄.MAH.MEŠ
+    gumāhu "prize bull" (2)
+
+:: GU₄.ME
+    alpu "ox" (1)
+
+:: GU₄.MEŠ
+    alpu "ox" (212)
+
+:: GU₄.NITA₂
+    alpu "ox" (2)
+
+:: GU₄.NITA₂.MEŠ
+    alpu "ox" (7)
+
+:: GU₄.PU.HAL
+    šūši "sixty" (1)
+
+:: GU₄{HI.A}
+    alpu "ox" (4)
+
+:: GU₄{HI.A}{MEŠ}
+    alpu "ox" (1)
+
+:: GU₄{MEŠ}
+    alpu "ox" (12)
+
+:: GU₇
+    akālu "eat" (3)
+
+:: HA.LA
+    zittu "share" (3)
+
+:: HA.ŠUR
+    hašūru "(a kind of cypress)" (4)
+
+:: HAD₂.A
+    ablu "dry" (1)
+
+:: HAL.MEŠ
+    bārû "diviner" (1)
+
+:: HAR
+    šawiru "ring" (3)
+    šawīru "ring" (1)
+
+:: HAR.MEŠ
+    šawiru "ring" (26)
+
+:: HE.GAL₂
+    hengallu "plenty" (1)
+
+:: HE.PI₂
+    hepû "broken" (2)
+
+:: HE₂.GAL₂
+    hengallu "plenty" (33)
+
+:: HE₂.GAL₂.LA
+    hengallu "plenty" (2)
+
+:: HE₂.NUN
+    nuhšu "abundance" (26)
+
+:: HI.A
+    mādu "many" (14)
+
+:: HI.A.MEŠ
+    mādu "many" (50)
+
+:: HI.GAR
+    bārtu "revolt" (4)
+
+:: HI.LI
+    kuzbu "attractiveness" (3)
+
+:: HUL
+    lemuttu "evil" (3)
+    lumnu "evil" (1)
+
+:: HUL.MEŠ
+    lemnu "bad" (8)
+    lemnu "bad one" (4)
+
+:: HUL₂.MEŠ
+    hidiātu "joy" (19)
+
+:: HUŠ.A
+    ruššû "red" (24)
+
+:: HUŠ.MEŠ
+    ezzu "furious" (1)
+
+:: I.ZI
+    igāru "wall" (4)
+
+:: I.ZI{MEŠ}
+    igāru "wall" (1)
+
+:: IBILA
+    aplu "heir" (33)
+
+:: IB₂.TAG₄
+    rēhtu "remainder" (19)
+
+:: ID
+    idu "arm" (1)
+
+:: IDIM
+    kabtu "heavy" (2)
+    kabtu "heavy one" (1)
+
+:: ID₂
+    nāru "river" (133)
+
+:: ID₂.MEŠ
+    nāru "river" (17)
+
+:: ID₂{ME}
+    nāru "river" (2)
+
+:: ID₂{MEŠ}
+    nāru "river" (9)
+
+:: IGI
+    pānu "front" (2193)
+    amāru "see" (866)
+    mahru "front" (4)
+    īnu "eye" (3)
+    pānû "front" (2)
+    tāmartu "spectacle" (2)
+    barû "see" (1)
+    palāsu "look at" (1)
+
+:: IGI-MIN
+    īnu "eye" (1)
+
+:: IGI.AM₃
+    pānu "front" (2)
+
+:: IGI.DU
+    tāmartu "spectacle" (2)
+
+:: IGI.GAL₂
+    igigallu "wisdom" (5)
+
+:: IGI.GAL₂.LA
+    igigallu "wisdom" (1)
+
+:: IGI.II
+    īnu "eye" (18)
+
+:: IGI.II.MEŠ
+    īnu "eye" (10)
+
+:: IGI.KAR₂
+    barû "seen" (7)
+
+:: IGI.LAL
+    amāru "see" (1)
+
+:: IGI.LA₂
+    amāru "see" (5)
+    tāmartu "spectacle" (4)
+
+:: IGI.MEŠ
+    īnu "eye" (3)
+
+:: IGI.SA₂
+    igisû "contribution" (3)
+
+:: IGI.TAB
+    barû "see" (3)
+    barû "seen" (2)
+
+:: IGIRA₂{MUŠEN}
+    igirû "heron" (9)
+
+:: IGIRA₂{MUŠEN}.MEŠ
+    igirû "heron" (7)
+
+:: IGI{ME}
+    amāru "see" (8)
+
+:: IGI{MEŠ}
+    amāru "see" (23)
+    pānu "front" (3)
+    pānû "front" (1)
+
+:: IKU
+    ikû "field" (8)
+
+:: ILLAT
+    tillatu "auxiliaries" (1)
+
+:: ILLU
+    mīlu "high water" (353)
+
+:: ILLU.MEŠ
+    mīlu "high water" (10)
+
+:: ILLU{MEŠ}
+    mīlu "high water" (3)
+
+:: IL₂
+    nāšû "bearing" (1)
+
+:: IM
+    šāru "wind" (157)
+    ṭīdu "mud" (5)
+    ṭuppu "tablet" (4)
+    ṭīdu "clay" (1)
+    ṭuppu "clay tablet" (1)
+
+:: IM-3
+    šadû "east" (2)
+
+:: IM.1
+    ištānu "north" (1)
+
+:: IM.BABBAR
+    gaṣṣu "gypsum" (6)
+
+:: IM.DIRI
+    erpetu "cloud" (3)
+
+:: IM.DUGUD
+    imbaru "fog" (35)
+
+:: IM.DUGUD.DUGUD
+    imbaru "fog" (4)
+
+:: IM.GID₂.DA
+    liginnu "(type of) tablet" (3)
+
+:: IM.GU₂
+    qadūtu "silt" (8)
+
+:: IM.KUR.RA
+    šadû "east" (2)
+
+:: IM.LIMMU.BA
+    šārū-erbetti "the four winds" (9)
+    šār-erbetti "four winds" (2)
+
+:: IM.LIMMU₂.BA
+    šāru&amp;&amp;erbe "wind&amp;&amp;four" (6)
+    šār-erbetti "four winds" (1)
+
+:: IM.MAR.TU
+    amurru "west" (1)
+    amurru "Amurru" (1)
+
+:: IM.MEŠ
+    šāru "wind" (2)
+
+:: IM.SI.SA₂
+    ištānu "north" (2)
+
+:: IM.SIG₇.SIG₇
+    dāmātu "(a dark-yellow paste)" (2)
+
+:: IM.U₁₈.LU
+    šūtu "south" (1)
+
+:: IM{HI.A}
+    ṭīdu "mud" (3)
+
+:: IN.NU.UŠ
+    maštakal "(an alkaline plant)" (1)
+
+:: IN.RA.RU
+    qiāšu "give" (1)
+
+:: IN.SAR
+    šaṭāru "write (down)" (1)
+
+:: INIM
+    awātu "word" (2)
+
+:: INIM.GAR
+    egerrû "utterance" (3)
+
+:: INIM{MEŠ}
+    awātu "word" (3)
+
+:: IR₂
+    bikītu "weeping" (32)
+
+:: IR₃
+    wardu "slave" (2)
+
+:: ITI
+    warhu "month" (96)
+
+:: ITI.MEŠ
+    warhu "month" (6)
+
+:: ITU
+    warhu "month" (1716)
+
+:: IZ.GAR₃
+    iškaru "work assignment" (2)
+
+:: IZI
+    išātu "fire" (120)
+
+:: IZI.GAR
+    dipāru "torch" (5)
+
+:: IZI.MEŠ
+    išātu "fire" (113)
+
+:: IZI.ŠUB
+    miqit-išāti "fall of fire" (27)
+
+:: IZI.ŠUB.BA
+    miqit-išāti "fall of fire" (2)
+
+:: IŠ₈.DAR
+    ištaru "goddess" (1)
+
+:: I₃
+    šamnu "oil" (27)
+
+:: I₃+GIŠ
+    šamnu "oil" (1)
+
+:: I₃.BUR
+    šamnu&amp;&amp;pūru "oil&amp;&amp;(a shallow bowl or platter)" (2)
+
+:: I₃.DU₈
+    atû "gatekeeper" (1)
+
+:: I₃.GIŠ
+    šamnu "oil" (117)
+
+:: I₃.GIŠ.MEŠ
+    šamnu "oil" (2)
+
+:: I₃.MEŠ
+    šamnu "oil" (31)
+
+:: I₃.NUN
+    himētu "butter" (5)
+
+:: I₃.NUN.NA
+    himētu "butter" (17)
+
+:: I₃.NUN.NA.MEŠ
+    himētu "butter" (1)
+
+:: I₃.SAG
+    rūštu "(a fine quality of oil)" (5)
+
+:: I₃.{GIŠ}MEŠ
+    šamnu "oil" (1)
+
+:: KA
+    pû "mouth" (27)
+    awātu "word" (2)
+
+:: KA.DU₈.UD.DA
+    pītu&amp;&amp;pû "break&amp;&amp;mouth" (1)
+
+:: KA.DU₈.U₃.DA
+    pītu&amp;&amp;pû "break&amp;&amp;mouth" (4)
+
+:: KA.INIM
+    šiptu "incantation" (1)
+
+:: KA.KA.SI.GA
+    tēltu "saying" (4)
+
+:: KA.KEŠDA.MEŠ
+    kiṣru "knot" (1)
+
+:: KA.LUH.UD.DA
+    mīsu&amp;&amp;pû "washing&amp;&amp;mouth" (1)
+
+:: KA.LUH.U₃.DA
+    mīsu&amp;&amp;pû "washing&amp;&amp;mouth" (5)
+
+:: KAD₂
+    kaṣāru "tie" (35)
+
+:: KAL
+    dannu "strong" (23)
+
+:: KAL.MEŠ
+    dannu "strong" (45)
+
+:: KALA
+    dannu "strong" (6)
+
+:: KALA.GA
+    dannu "strong" (6)
+
+:: KALAG
+    dannu "strong" (86)
+
+:: KALAG{MEŠ}
+    dannu "strong" (7)
+
+:: KALAM
+    mātu "land" (1)
+
+:: KAM
+    erēšu "request" (1)
+
+:: KAR
+    kāru "quay" (12)
+
+:: KARAŠ
+    karāšu "military camp" (9)
+
+:: KARAŠ-MU
+    karāšu "military camp" (1)
+
+:: KARAŠ.MEŠ
+    karāšu "military camp" (1)
+
+:: KASKAL
+    harrānu "way" (46)
+    harrānu "path" (3)
+
+:: KASKAL.GID₂
+    bēru "double hour" (61)
+
+:: KASKAL.GID₂.TA.AM₃
+    bēru "double hour" (1)
+
+:: KASKAL.II
+    harrānu "way" (4)
+
+:: KASKAL.II.MEŠ
+    harrānu "way" (3)
+
+:: KASKAL.MEŠ
+    harrānu "way" (1)
+
+:: KASKAL{II}
+    harrānu "way" (1)
+
+:: KAŠ
+    šikaru "beer" (4)
+
+:: KAŠ-MEŠ
+    šikaru "beer" (1)
+
+:: KAŠ.MAH
+    kašmahhu "first class beer" (1)
+
+:: KAŠ.MEŠ
+    šikaru "beer" (10)
+
+:: KAŠ.SAG
+    šikaru "beer" (12)
+
+:: KAŠ₄
+    lismu "running" (1)
+
+:: KA₂
+    bābu "gate" (153)
+
+:: KA₂.GAL
+    abullu "gate" (139)
+
+:: KA₂.GAL.ME
+    bābu "gate" (1)
+
+:: KA₂.GAL.MEŠ
+    abullu "gate" (27)
+
+:: KA₂.GAL{MEŠ}
+    abullu "gate" (3)
+
+:: KA₂.KA₂
+    bābu "gate" (4)
+
+:: KA₂.MEŠ
+    bābu "gate" (15)
+
+:: KA₂{MEŠ}
+    bābu "gate" (5)
+    abullu "gate" (1)
+
+:: KA₅.A
+    šēlebu "fox" (4)
+
+:: KI
+    erṣetu "earth" (48)
+    ašru "place" (46)
+    itti "with" (41)
+    erṣētu "district" (2)
+
+:: KI-ME
+    mātu "land" (1)
+
+:: KI.GAL
+    kigallu "socle" (1)
+
+:: KI.GUB
+    mazzāzu "position" (1)
+
+:: KI.LAM
+    mahīru "exchange rate" (267)
+
+:: KI.LA₂
+    šuqultu "weight" (5)
+
+:: KI.MAH
+    kimahhu "grave" (14)
+
+:: KI.MIN
+    šanîš "otherwise" (10)
+
+:: KI.NE
+    kinūnu "brazier" (6)
+
+:: KI.SAG
+    kaspu "silver" (14)
+
+:: KI.SIKIL
+    wardatu "girl" (1)
+
+:: KI.TA
+    šapliš "below" (16)
+    šaplû "lower" (14)
+    šaplu "underside" (12)
+    šaplānu "underneath" (4)
+    šapālu "be(come) deep" (3)
+
+:: KI.TA.MEŠ
+    šaplītu "lower part" (1)
+
+:: KI.TUŠ
+    šubtu "seat" (12)
+
+:: KI.UŠ
+    kibsu "track" (1)
+
+:: KI.ŠAR₂.RA
+    kiššatu "totality" (7)
+
+:: KI.ṢIR.MEŠ
+    kiṣru "knot" (8)
+
+:: KIN
+    šipru "sending" (8)
+
+:: KIN.GI₄
+    šipru "sending" (1)
+
+:: KIN.MEŠ
+    šipru "sending" (7)
+
+:: KIN.SIG
+    kinsikku "afternoon" (466)
+
+:: KISAL
+    kisallu "forecourt" (25)
+
+:: KISAL.MAH
+    kisalmāhu "main court" (6)
+
+:: KI{MEŠ}
+    ašru "place" (1)
+
+:: KIŠ
+    kiššatu "totality" (216)
+    kiššatu "world" (1)
+
+:: KIŠIB
+    kunukku "seal" (2)
+
+:: KUD.MEŠ
+    parāsu "stop" (1)
+
+:: KUD{MEŠ}
+    parāsu "stop" (7)
+
+:: KUN
+    zibbatu "tail" (1)
+
+:: KUN₄
+    askuppu "(threshold) slab" (3)
+
+:: KUN₄.MEŠ
+    askuppu "(threshold) slab" (39)
+
+:: KUR
+    mātu "land" (2689)
+    šadû "east" (263)
+    baʾālu "be(come) dominant" (60)
+    ēkallu "palace" (55)
+    kašādu "reach" (41)
+    šadû "mountain" (39)
+    napāhu "blow" (37)
+    niphu "(act of) lighting" (11)
+    šadû "mountain(s)" (8)
+    ṣarāru "flash" (1)
+    kišittu "achievement" (1)
+
+:: KUR.DIDLI
+    mātu "land" (1)
+
+:: KUR.GI.MUŠEN.MEŠ
+    kurkû "goose" (1)
+
+:: KUR.GI{MUŠEN}
+    kurkû "goose" (4)
+
+:: KUR.KUR
+    mātu "land" (334)
+
+:: KUR.KUR.MEŠ
+    mātu "land" (123)
+
+:: KUR.KUR.RA
+    mātu "land" (4)
+
+:: KUR.KUR.RE
+    mātu "land" (2)
+
+:: KUR.KUR{MEŠ}
+    mātu "land" (1)
+
+:: KUR.MEŠ
+    šadû "mountain" (57)
+    mātu "land" (23)
+    kašādu "reach" (1)
+
+:: KUR.RA
+    šadû "east" (2)
+
+:: KURUN.NAM
+    kurunnu "(a kind of beer)" (10)
+
+:: KUR{MEŠ}
+    šadû "mountain" (1)
+
+:: KUR₂
+    nakru "enemy" (9)
+
+:: KUR₂.MEŠ
+    nakru "enemy" (28)
+    nakru "strange" (2)
+
+:: KUR₂{MEŠ}
+    nakāru "be(come) different" (1)
+
+:: KUR₄
+    baʾālu "be(come) dominant" (95)
+
+:: KUŠ
+    mašku "skin" (23)
+
+:: KUŠ.DUH.ŠI.A
+    dušû "untanned leather?" (1)
+
+:: KUŠ₂
+    ammatu "unit" (5)
+
+:: KUŠ₃
+    ammatu "unit" (7062)
+
+:: KUŠ₃.MEŠ
+    ammatu "unit" (3)
+
+:: KU₂
+    akālu "eat" (7)
+
+:: KU₂.BABBAR
+    kaspu "silver" (3)
+
+:: KU₂{MEŠ}
+    akālu "eat" (1)
+
+:: KU₃
+    ellu "pure" (46)
+    ellu "clean" (1)
+
+:: KU₃-MEŠ
+    ellu "pure" (1)
+
+:: KU₃.BABBAR
+    kaspu "silver" (503)
+
+:: KU₃.BABBAR.MEŠ
+    kaspu "silver" (50)
+
+:: KU₃.DIM₂.MEŠ
+    kutīmu "goldsmith" (1)
+
+:: KU₃.GA
+    ellu "pure" (2)
+
+:: KU₃.GI
+    hurāṣu "gold" (476)
+
+:: KU₃.GI.ME
+    hurāṣu "gold" (1)
+
+:: KU₃.GI.MEŠ
+    hurāṣu "gold" (56)
+
+:: KU₃.ME
+    ellu "pure" (2)
+
+:: KU₃.MEŠ
+    ellu "pure" (44)
+
+:: KU₄
+    erēbu "enter" (36)
+
+:: KU₄{MEŠ}
+    erēbu "enter" (8)
+
+:: KU₆
+    nūnu "fish" (6)
+
+:: KU₆.HI.A
+    nūnu "fish" (1)
+
+:: KU₆.LU₂.U₁₈.LU
+    kulīlu "fish-man" (2)
+
+:: KU₆.MEŠ
+    nūnu "fish" (9)
+
+:: KU₆{HI.A}
+    nūnu "fish" (1)
+
+:: LAL
+    nahāsu "recede" (575)
+    alālu "hang up" (1)
+
+:: LAL{MEŠ}
+    nasāhu "recede" (1)
+
+:: LAL₂
+    alālu "hang up" (22)
+    šitqultu "opposition" (2)
+    nahāsu "recede" (1)
+    šāqilu "(wooden lock or bolt)" (1)
+
+:: LAL₃
+    dišpu "honey" (27)
+
+:: LAL₃.MEŠ
+    dišpu "honey" (4)
+
+:: LI.LI.IZ₃
+    lilissu "kettledrum" (2)
+
+:: LIBIR.RA.BI.GIM
+    kīma&amp;&amp;labīru "like&amp;&amp;old one" (1)
+
+:: LIBIR.RA.MEŠ
+    labīru "old" (3)
+
+:: LIM
+    līm "thousand" (407)
+
+:: LIM-A.A
+    līmâ "one thousandfold" (3)
+
+:: LIMMU₂
+    erbe "four" (5)
+
+:: LIMMU₂.BA
+    erbe "four" (4)
+
+:: LU.EN.NAM.MEŠ
+    bēlu&amp;&amp;pīhātu "lord&amp;&amp;post" (1)
+
+:: LU.GAL
+    rabû "great one" (1)
+
+:: LUGAL
+    šarru "king" (2873)
+
+:: LUGAL-MEŠ
+    šarru "king" (1)
+
+:: LUGAL.LUGAL
+    šarru "king" (3)
+
+:: LUGAL.LUGAL.MEŠ
+    šarru "king" (1)
+
+:: LUGAL.ME
+    šarru "king" (5)
+
+:: LUGAL.MEŠ
+    šarru "king" (352)
+
+:: LUGAL{MEŠ}
+    šarru "king" (49)
+
+:: LUGUD
+    šarku "pus" (1)
+
+:: LUGUD.DA{MEŠ}
+    karû "be(come) short" (1)
+
+:: LU₂
+    awīlu "man" (82)
+
+:: LU₂.GALA
+    kalû "lamentation-priest" (2)
+
+:: LU₂.MEŠ
+    awīlu "man" (18)
+
+:: LU₂.NE
+    ṣāltu "combat" (16)
+
+:: LU₂.NE{MEŠ}
+    ṣāltu "combat" (1)
+
+:: LU₂.SAG
+    ša&amp;&amp;rēšu "of&amp;&amp;head" (12)
+
+:: LU₂.UŠ₂
+    mītu "dead person" (1)
+
+:: LU₂{MEŠ}
+    awīlu "man" (1)
+
+:: MA
+    manû "unit" (1)
+
+:: MA.DA
+    mātu "land" (5)
+
+:: MA.DA.MA.DA
+    mātu "land" (1)
+
+:: MA.NA
+    manû "mina" (109)
+    manû "(one mina)" (92)
+    manû "unit" (58)
+
+:: MA.NA.TA.AM₃
+    manû "unit" (6)
+
+:: MAH
+    ṣīru "exalted" (217)
+    ṣīru "exalted one" (6)
+
+:: MAH.MEŠ
+    ṣīru "exalted" (91)
+
+:: MAH{MEŠ}
+    ṣīru "exalted" (17)
+
+:: MAN
+    šarru "king" (2899)
+
+:: MAN.MEŠ
+    šarru "king" (47)
+
+:: MAR
+    amurru "west" (178)
+    amurru "west wind" (117)
+
+:: MAŠ.DA₃.MEŠ
+    ṣabītu "gazelle" (9)
+
+:: MAŠ.EN.GAG
+    muškēnu "dependant of the palace" (1)
+
+:: MAŠ.MAŠ
+    mašmaššu "incantation priest" (2)
+
+:: MAŠ.TAB.BA
+    māšu "twin" (2)
+
+:: MAŠKIM.ME
+    rābiṣu "(an official representative of and commissioned by a higher authority)" (2)
+
+:: MAŠKIM.MEŠ
+    rābiṣu "(an official representative of and commissioned by a higher authority)" (4)
+
+:: MAŠKIM₂
+    rābiṣu "(an official representative of and commissioned by a higher authority)" (1)
+
+:: MAŠKIM₃
+    rābiṣu "bailiff" (1)
+
+:: MAŠ₂
+    ṣibtu "interest" (5)
+
+:: MAŠ₂.ANŠE
+    būlu "animals" (13)
+
+:: MAŠ₂.ANŠE.EDIN
+    būlu "animals" (1)
+
+:: MAŠ₂.GE₆
+    šuttu "dream" (1)
+
+:: MAŠ₂.GI₆
+    šuttu "dream" (32)
+
+:: MAŠ₂.MEŠ
+    ṣibtu "seizure" (1)
+
+:: MAŠ₂.ŠU.GID₂.GID₂
+    bārû "diviner" (1)
+
+:: MA₂
+    eleppu "ship" (1)
+
+:: MA₂.LAH₄
+    malāhu "sailor" (2)
+
+:: ME
+    meʾatu "(one) hundred" (845)
+    ūmu "day" (760)
+
+:: ME.LAM₂
+    melemmu "fearsome radiance" (2)
+
+:: MES
+    mēsu "(a type of tree)" (1)
+
+:: MES.MA₂.KAN.NA
+    musukkannu "Magan-tree" (1)
+
+:: ME₂
+    tāhāzu "battle" (1)
+
+:: ME₃
+    tāhāzu "battle" (175)
+
+:: ME₃.MEŠ
+    tāhāzu "battle" (1)
+
+:: MIN
+    šina "two" (4)
+
+:: MI₂
+    sinništu "woman" (3)
+
+:: MI₂.KUR₂
+    nukurtu "enmity" (1)
+
+:: MI₂.PEŠ₄{MEŠ}
+    arītu "pregnant woman" (1)
+
+:: MI₂.UR
+    kalbatu "female dog" (1)
+
+:: MI₂.ŠAH
+    šahītu "sow" (1)
+
+:: MI₂{MEŠ}
+    sinništu "woman" (3)
+
+:: MU
+    šattu "year" (218)
+    šumu "name" (147)
+    nīšu "(oath on the) life" (13)
+    zakāru "speak" (2)
+    mukillu "holder" (2)
+
+:: MU-BI.IM
+    šumu "name" (4)
+
+:: MU.1.KAM
+    šattu "year" (2)
+
+:: MU.AN.NA
+    šattu "year" (26)
+
+:: MU.AN.NA.MEŠ
+    šattu "year" (53)
+
+:: MU.BI
+    šumu "name" (1)
+
+:: MU.DIDLI
+    šumu "name" (5)
+
+:: MU.ME
+    šuāti "him" (1)
+    šattu "year" (1)
+
+:: MU.MEŠ
+    šattu "year" (22)
+    šumu "name" (2)
+    šuāti "him" (2)
+
+:: MU.NE
+    šumu "name" (3)
+
+:: MU.SAG
+    šattu&amp;&amp;rēšu "year&amp;&amp;head" (2)
+
+:: MU.SAG.LUGAL.LA
+    šattu&amp;&amp;rēšu&amp;&amp;šarrūtu "year&amp;&amp;head&amp;&amp;kingship" (2)
+
+:: MU.SAG.NAM.LUGAL.LA
+    šattu&amp;&amp;rēšu&amp;&amp;šarrūtu "year&amp;&amp;head&amp;&amp;kingship" (6)
+
+:: MU.SAR
+    mušarû "(royal) inscription" (11)
+
+:: MU.SAR.MEŠ
+    mušarû "(royal) inscription" (2)
+
+:: MUD
+    pālihu "reverent one" (1)
+
+:: MUD₂
+    dāmu "blood" (1)
+
+:: MUD₂.MEŠ
+    dāmu "blood" (1)
+
+:: MUHALDIM
+    nuhatimmu "cook" (1)
+
+:: MUL
+    kakkabu "star" (13)
+
+:: MUL-MEŠ
+    kakkabu "star" (3)
+
+:: MUL.MEŠ
+    kakkabu "star" (12)
+
+:: MUL.PAN
+    qaštu "bow" (4)
+
+:: MUL₂
+    kakkabu "star" (68)
+
+:: MUL₂{ME}
+    kakkabu "star" (7)
+
+:: MUL₂{MEŠ}
+    kakkabu "star" (2)
+
+:: MUN
+    ṭābtu "goodness" (22)
+    ṭabtu "salt" (8)
+
+:: MUN.MEŠ
+    ṭabtu "salt" (1)
+
+:: MUNUS
+    sinništu "woman" (40)
+    sekretu "enclosed (woman)" (2)
+
+:: MUNUS.ANŠE.KUR.RA
+    urītu "mare" (3)
+
+:: MUNUS.DUMU
+    mārtu "daughter" (1)
+
+:: MUNUS.E₂.GAL
+    ša&amp;&amp;ēkallu "of&amp;&amp;palace" (21)
+
+:: MUNUS.E₂.GAL.MEŠ
+    ša&amp;&amp;ēkallu "of&amp;&amp;palace" (1)
+
+:: MUNUS.HUL
+    lemuttu "evil" (12)
+
+:: MUNUS.KUR
+    ša&amp;&amp;ēkallu "of&amp;&amp;palace" (1)
+
+:: MUNUS.MEŠ
+    sinništu "woman" (5)
+
+:: MUNUS.SIG₅
+    damqu "good" (10)
+    damqu "good one" (5)
+
+:: MUNUS.SIG₅.MEŠ
+    damqu "good" (6)
+    damqu "good one" (2)
+
+:: MUNUS.UN.MEŠ
+    sekretu "enclosed (woman)" (1)
+
+:: MUNU₄
+    buqlu "malt" (1)
+
+:: MUR
+    hašû "lung(s)" (7)
+
+:: MURUB₄
+    qabaltu "middle" (210)
+    qablu "hips" (169)
+    qablu "battle" (102)
+    qablītu "middle watch (of the night)" (21)
+
+:: MURUB₄.BA
+    qablītu "middle watch (of the night)" (11)
+
+:: MURU₉
+    imbaru "fog" (21)
+
+:: MUŠ
+    ṣerru "snake" (14)
+
+:: MUŠ.HUŠ
+    mušhuššu "serpent-dragon" (6)
+
+:: MUŠ.LAH₄
+    mušlalahhû "snake charmer" (1)
+
+:: MUŠ.MEŠ
+    ṣerru "snake" (4)
+
+:: MUŠEN
+    iṣṣūru "bird" (41)
+
+:: MUŠEN.HI.A
+    iṣṣūru "bird" (7)
+
+:: MUŠEN.MEŠ
+    iṣṣūru "bird" (25)
+
+:: MUŠEN.MEŠ.GAL.MEŠ
+    iṣṣūru&amp;&amp;rabû "bird&amp;&amp;great" (3)
+
+:: MUŠEN.UZ
+    ūsu "goose" (2)
+
+:: MUŠEN{HI.A}
+    iṣṣūru "bird" (1)
+
+:: NA
+    mazzāzu "position" (4)
+    awīlu "man" (1)
+
+:: NA.RU₂.A
+    narû "stele" (2)
+
+:: NA.RU₂.A.MEŠ
+    narû "stele" (1)
+
+:: NAGAR
+    nagāru "joiner" (1)
+
+:: NAGAR.MEŠ
+    nagāru "joiner" (1)
+
+:: NAM
+    pīhātu "post" (28)
+    šīmtu "what is fixed" (2)
+    pīhātu "responsibility" (1)
+
+:: NAM-A
+    annû "this" (1)
+
+:: NAM.LUGAL.LA
+    šarrūtu "kingship" (3)
+
+:: NAM.LU₂
+    awīlu "man" (1)
+
+:: NAM.LU₂.ULU₃
+    awīlu "man" (1)
+
+:: NAM.MEŠ
+    šīmtu "what is fixed" (29)
+    pīhātu "post" (1)
+
+:: NAM.RA
+    šallatu "plundered thing(s)" (1)
+
+:: NAM.SAG
+    rēšu "head" (1)
+
+:: NAM.TI.LA
+    balāṭu "life" (1)
+
+:: NAM.UŠ₂.MEŠ
+    mūtānu "epidemic" (7)
+
+:: NAM.UŠ₂{ME}
+    mūtu "death" (1)
+
+:: NAM{MEŠ}
+    šīmtu "what is fixed" (3)
+
+:: NA₄
+    abnu "stone" (132)
+
+:: NA₄.GUG
+    sāmtu "redness" (3)
+
+:: NA₄.MEŠ
+    abnu "stone" (109)
+
+:: NA₄.NA₄
+    abnu "stone" (1)
+
+:: NA₄.ZA.GIN₃
+    uqnû "lapis lazuli" (1)
+
+:: NA₅
+    pitnu "box" (3)
+    pitnu "chest" (1)
+
+:: NIDBA
+    nindabû "(food) offering" (32)
+
+:: NIDBA.MEŠ
+    nindabû "(food) offering" (5)
+
+:: NIDBA{MEŠ}
+    nindabû "(food) offering" (2)
+
+:: NIGA.MEŠ
+    marû "fattened" (2)
+
+:: NIGIN
+    lawû "surround" (155)
+    sihirtu "circumference" (1)
+    napharu "total" (1)
+
+:: NIGIN{MEŠ}
+    pahāru "gather" (1)
+
+:: NIGIN₂
+    lawû "surround" (63)
+
+:: NIG₂.BA
+    qiāšu "give" (10)
+    qīštu "gift" (5)
+
+:: NIG₂.BA.MEŠ
+    qīštu "gift" (3)
+
+:: NIG₂.BUN₂.NA{KU₆}
+    šeleppû "turtle" (2)
+
+:: NIG₂.DU
+    kudurru "carrying frame" (2)
+    kudurru "boundary" (1)
+
+:: NIG₂.GA
+    makkūru "property" (115)
+
+:: NIG₂.GA.MEŠ
+    makkūru "property" (5)
+
+:: NIG₂.GIDRU
+    haṭṭu "stick" (1)
+
+:: NIG₂.GIG
+    maruṣtu "evil" (1)
+
+:: NIG₂.GUL
+    akkullu "hatchet" (1)
+
+:: NIG₂.NA
+    nignakku "censer" (3)
+
+:: NIG₂.SA.SA.HI.A
+    muthummu "fruit(s)" (3)
+
+:: NIG₂.SILA₁₁.GA₂
+    līšu "dough" (1)
+
+:: NIG₂.TUKU
+    mašrû "riches" (1)
+
+:: NIG₂.ŠID
+    nikkassu "account(s)" (2)
+
+:: NIG₂.ŠU
+    būšu "goods" (55)
+    būšu "property" (3)
+
+:: NIG₂.ŠU.MEŠ
+    būšu "goods" (8)
+
+:: NIM
+    šaqû "be(come) high" (452)
+
+:: NIM.GIR₂
+    birqu "lightning" (20)
+    barāqu "lighten" (11)
+    berqu "lightning" (5)
+    berqu "lightning (flash)" (1)
+
+:: NIM.GIR₂.NIM.GIR₂
+    barāqu "flash" (1)
+
+:: NIMGIR
+    nāgiru "(town) crier" (3)
+
+:: NIN
+    bēltu "lady" (26)
+    ahātu "sister" (2)
+
+:: NIN.A.NI
+    bēltu "lady" (2)
+    bēltišu "lady" (1)
+
+:: NIN.DINGIR.RA
+    entu "high priestess" (9)
+
+:: NIN.DINGIR.RA.MEŠ
+    entu "high priestess" (2)
+
+:: NINDA
+    namaddu "measuring vessel" (36)
+    nindanu "rod" (9)
+    akalu "bread" (8)
+
+:: NINDA.HI.A
+    akalu "bread" (7)
+
+:: NINDA.MEŠ
+    akalu "bread" (12)
+
+:: NINDA{HI.A}
+    akalu "bread" (2)
+
+:: NINDU
+    tinūru "oven" (1)
+
+:: NIN₉.MEŠ
+    ahātu "sister" (4)
+
+:: NIR.GAL₂
+    etellu "pre-eminent one" (1)
+
+:: NITA
+    zikaru "male" (36)
+
+:: NITA{MEŠ}
+    awīlu "man" (1)
+
+:: NITA₂
+    zikaru "male" (18)
+
+:: NITA₂.MEŠ
+    zikaru "male" (2)
+
+:: NI₂.GI
+    hammāʾu "rebel" (1)
+
+:: NI₂.GI.MEŠ
+    hammāʾu "rebel" (1)
+
+:: NU
+    ul "not" (899)
+    lā "not" (45)
+    ṣalmu "effigy" (20)
+
+:: NU.KUŠ₂.U₃
+    nukuššû "(a door fitting)" (1)
+
+:: NUMUN
+    zēru "seed(s)" (96)
+
+:: NUMUN.MEŠ
+    zēru "seed(s)" (1)
+
+:: NUN
+    rubû "ruler" (280)
+
+:: NUN.ME
+    apkallu "wise man" (1)
+
+:: NUN.MEŠ
+    rubû "ruler" (12)
+
+:: NUNDUN
+    šaptu "lip" (1)
+
+:: NUNUZ
+    perʾu "bud" (12)
+
+:: NUNUZ.MEŠ
+    pelû "egg" (1)
+
+:: NU₂
+    eršu "bed" (1)
+
+:: PA
+    kappu "wing" (81)
+
+:: PAP
+    naṣāru "guard" (629)
+    naphāru "total" (161)
+    napharu "total" (80)
+
+:: PAP.HAL
+    pušqu "distress" (1)
+
+:: PA₅
+    palgu "canal" (8)
+    palgu "ditch" (5)
+
+:: PEŠ₂
+    humṣīru "(large) mouse" (5)
+
+:: PI
+    pānu "bushel (36 litres)" (252)
+    parsiktu "(a measure of capacity, mostly used for grain)" (1)
+
+:: PISAN
+    pisannu "(a meterological phenomenon)" (199)
+    pišannu "chest" (1)
+
+:: PU₂
+    būrtu "cistern" (18)
+
+:: PU₂.MEŠ
+    būrtu "cistern" (23)
+
+:: PU₂{MEŠ}
+    būrtu "cistern" (1)
+
+:: RE.E₂.UM
+    rēʾû "shepherd" (30)
+    rēʾûtu "shepherdship" (3)
+
+:: RI
+    adānu "fixed date" (1)
+
+:: RI+ZAG
+    rām-aširti "socle-builder(?)" (4)
+
+:: SAG
+    rēšu "head" (2628)
+    pūtu "forehead" (21)
+    rēštû "first" (2)
+    ašarēdu "first and foremost" (1)
+
+:: SAG.DIN
+    ṭēmu "report" (1)
+
+:: SAG.DU
+    qaqqadu "head" (88)
+    rēšu "head" (1)
+
+:: SAG.DU.MEŠ
+    qaqqadu "head" (20)
+
+:: SAG.DU{MEŠ}
+    rēšu "head" (3)
+
+:: SAG.GEME₂.ARAD
+    aštapīru "slaves" (1)
+
+:: SAG.GE₆.GA.A
+    ṣalmāt-qaqqadi "the black-headed ones (mankind)" (1)
+
+:: SAG.KAL
+    ašarēdu "first and foremost one" (15)
+    ašarēdu "first and foremost" (2)
+
+:: SAG.KAL.MEŠ
+    ašarēdu "first and foremost one" (1)
+
+:: SAG.KI
+    pūtu "forehead" (55)
+
+:: SAG.MEŠ
+    rēšu "head" (10)
+    qaqqadu "head" (3)
+    rēštu "beginning" (2)
+
+:: SAG.PA.KIL
+    nissatu "wailing" (1)
+
+:: SAGŠU
+    kubšu "headcloth" (4)
+
+:: SAHAR
+    eperu "earth" (4)
+
+:: SAHAR.HI.A
+    eperu "earth" (14)
+
+:: SAHAR.MEŠ
+    eperu "earth" (5)
+
+:: SAHAR{HI.A}
+    eperu "earth" (4)
+
+:: SAL
+    raqqu "thin" (170)
+    sinništu "woman" (2)
+
+:: SAL.UR
+    kalbatu "female dog" (2)
+
+:: SAL.UR.KU
+    kalbatu "female dog" (1)
+
+:: SANGA
+    šangû "priest" (12)
+
+:: SAR
+    šiṭru "(piece of) writing" (14)
+    šasû "shout" (4)
+    šaṭāru "write" (2)
+    habātu "rob" (2)
+    hubtu "robbery" (1)
+    mūšaru "garden(-plot)" (1)
+
+:: SAR.MEŠ
+    mūšaru "garden(-plot)" (1)
+
+:: SAR{MEŠ}
+    šaṭāru "write" (6)
+    habātu "rob" (2)
+
+:: SA₂
+    šanānu "equal" (1)
+
+:: SA₂.DUG₄
+    sattukku "regular delivery" (9)
+
+:: SA₂.DUG₄.MEŠ
+    sattukku "regular delivery" (1)
+
+:: SA₄
+    nabû "name" (4)
+    nebû "shining" (1)
+
+:: SA₅
+    sāmu "red" (9)
+    siāmu "be red" (4)
+
+:: SA₅.MEŠ
+    malû "full" (2)
+    sāmu "red" (1)
+
+:: SI
+    ištānu "north" (2268)
+    ubānu "finger" (892)
+    qarnu "horn" (13)
+
+:: SI.A
+    malû "be(come) full" (1)
+
+:: SI.GAR
+    šigaru "(wooden) clamp" (3)
+
+:: SI.LA₂
+    piqittu "provisioning" (1)
+
+:: SI.MEŠ
+    qarnu "horn" (1)
+
+:: SI.SA₂
+    ešēru "go well" (23)
+
+:: SIG
+    šapālu "be(come) deep" (2362)
+    enšu "weak one" (19)
+    damqu "good" (2)
+    šaplû "lower" (1)
+
+:: SIG₂
+    šīpātu "wool" (65)
+
+:: SIG₂-HI.A
+    šīpātu "wool" (1)
+
+:: SIG₂.HI.A
+    šīpātu "wool" (2)
+
+:: SIG₂.MEŠ
+    šīpātu "wool" (6)
+
+:: SIG₂.SAG
+    argamannu "purple" (1)
+
+:: SIG₂.ZA.GIN₃.MI
+    argamannu "purple" (1)
+
+:: SIG₂{HI.A}
+    šīpātu "wool" (180)
+
+:: SIG₄
+    libittu "mudbrick" (60)
+
+:: SIG₄-MEŠ
+    libittu "mudbrick" (1)
+
+:: SIG₄.AL.UR₃.RA
+    agurru "baked brick" (23)
+
+:: SIG₄.HI.A
+    libittu "mudbrick" (8)
+
+:: SIG₄.MEŠ
+    libittu "mudbrick" (14)
+
+:: SIG₄.SIG₄
+    libittu "mudbrick" (4)
+
+:: SIG₄{HI.A}
+    libittu "mudbrick" (3)
+
+:: SIG₅
+    damqu "good" (15)
+    dumqu "goodness" (7)
+    damiqtu "good" (1)
+
+:: SIG₅.MEŠ
+    damqu "good" (45)
+    damqu "good one" (3)
+    damāqu "be(come) good" (1)
+
+:: SIG₅{MEŠ}
+    damqu "good" (1)
+
+:: SIG₇
+    warāqu "be(come) green-yellow" (2)
+
+:: SIG₇-MEŠ
+    warqu "yellow" (1)
+
+:: SIG₇.IGI.KU₃
+    matgiqu "(part of a building)" (1)
+
+:: SIG₇.MEŠ
+    warqu "yellow" (1)
+
+:: SIKIL
+    ellu "pure" (2)
+    sikillu "(a plant)" (1)
+
+:: SIK₂
+    šīpātu "wool" (1)
+
+:: SIK₂.MEŠ
+    šīpātu "wool" (1)
+
+:: SIL
+    sūqu "street" (1)
+
+:: SILA
+    sūqu "street" (16)
+
+:: SILA.DAGAL
+    rebītu "street" (1)
+
+:: SILA.DAGAL.LA
+    rebītu "street" (2)
+    rebītu "square" (1)
+
+:: SILA.MEŠ
+    sūqu "street" (1)
+
+:: SILA{ME}
+    sūqu "street" (1)
+
+:: SILA{MEŠ}
+    sūqu "street" (3)
+
+:: SILA₃
+    qû "(a capacity measure)" (4)
+
+:: SILIM
+    šalāmu "be(come) healthy" (25)
+    šulmu "completeness" (16)
+
+:: SIL{MEŠ}
+    sūqu "street" (4)
+
+:: SIMUG.MEŠ
+    nappāhu "smith" (1)
+
+:: SIPA
+    rēʾû "shepherd" (40)
+
+:: SISKUR
+    nīqu "offering" (10)
+
+:: SISKUR.SISKUR
+    nīqu "offering" (1)
+
+:: SISKUR.SISKUR.MEŠ
+    nīqu "offering" (2)
+
+:: SISKUR.SISKUR{MEŠ}
+    nīqu "offering" (2)
+
+:: SISKUR{MEŠ}
+    nīqu "offering" (14)
+
+:: SISKUR₂
+    nīqu "offering" (9)
+
+:: SISKUR₂{MEŠ}
+    nīqu "offering" (4)
+
+:: SU
+    râbu "replace" (7)
+    zumru "body" (1)
+
+:: SU.GU₇
+    hušahhu "need" (1)
+
+:: SU.KU₂
+    hušahhu "need" (2)
+
+:: SUD
+    edēhu "cover with patches" (3)
+    rūqu "distant" (1)
+
+:: SUD{MEŠ}
+    rūqu "distant" (3)
+
+:: SUHUR
+    ṭēhu "proximity" (4)
+
+:: SUHUR.MAŠ₂
+    suhurmāšu "(mythical) goat-fish" (1)
+
+:: SUHUR.MAŠ₂{KU₆}
+    suhurmāšu "(mythical) goat-fish" (3)
+
+:: SUHUŠ
+    išdu "foundation" (36)
+
+:: SUKKAL
+    šukkallu "(a court official)" (8)
+
+:: SUKKAL.MAH
+    sukkalmahhu "chief minister" (1)
+
+:: SUM
+    nadānu "give" (10)
+
+:: SUM-ʾ
+    nadānu "give" (1)
+
+:: SUM.MEŠ
+    nadānu "give" (1)
+
+:: SUM.SAR
+    šūmū "garlic" (1)
+
+:: SUM.SIKIL.SAR
+    šamaškillu "(a type of onion)" (1)
+
+:: SUMUN
+    labīru "old" (4)
+
+:: SUMUN{MEŠ}
+    labīru "old" (2)
+
+:: SUM{MEŠ}
+    nadānu "give" (2)
+
+:: SUM{SAR}
+    hassū "lettuce" (1)
+
+:: SUN₂.MEŠ
+    rīmtu "wild cow" (1)
+
+:: SUR
+    ṣarāhu "light up" (5)
+
+:: SUR₂.DU₃{MUŠEN}
+    surdû "hawk" (1)
+
+:: SU₃
+    ṭebû "sink" (1)
+    rūqu "distant" (1)
+
+:: SU₃.ME
+    rūqu "distant" (5)
+
+:: SU₃.MEŠ
+    rūqu "distant" (72)
+
+:: TA
+    ištu "from" (896)
+    ultu "from" (428)
+    itti "with" (6)
+    ina "in" (2)
+
+:: TAG
+    lapātu "touch" (1)
+    liptu "undertaking" (1)
+
+:: TAG₄
+    ezēbu "leave" (4)
+
+:: TAG₄{MEŠ}
+    ezēbu "leave" (1)
+
+:: TAR
+    parāsu "cut (off)" (2)
+
+:: TAR₂.KIL₂
+    tarkullu "wooden post" (1)
+
+:: TE
+    ṭehû "be(come) near to" (34)
+    ṭehû "be(come) near" (1)
+
+:: TE{MEŠ}
+    tehû "be(come) near" (1)
+
+:: TEŠ₂
+    bāštu "dignity" (1)
+
+:: TI
+    balāṭu "life" (34)
+    balāṭu "live" (6)
+    leqû "take" (2)
+
+:: TI.LA
+    balāṭu "life" (36)
+    balāṭu "live" (10)
+
+:: TI.LA.MEŠ
+    balṭu "living one" (34)
+
+:: TI.MEŠ
+    balṭu "living one" (7)
+
+:: TIBIRA.MEŠ
+    qurqurru "metal-worker" (1)
+
+:: TIL
+    qītu "end" (747)
+    labīru "old" (1)
+
+:: TIN
+    balāṭu "life" (29)
+    balāṭu "live" (20)
+
+:: TI₈.MUŠEN
+    erû "eagle" (3)
+
+:: TI₈{MUŠEN}
+    erû "eagle" (9)
+
+:: TI₈{MUŠEN}.MEŠ
+    erû "eagle" (1)
+
+:: TU
+    erēbu "enter" (1)
+
+:: TU.GUR₄{MUŠEN}.MEŠ
+    sukannīnu "dove" (4)
+
+:: TU.KUR₄{MUŠEN}.MEŠ
+    sukannīnu "dove" (1)
+
+:: TUG₂
+    ṣubātu "textile" (14)
+    lubuštu "clothing" (3)
+
+:: TUG₂.MEŠ
+    ṣubātu "textile" (3)
+
+:: TUG₃
+    ṣubātu "textile" (1)
+
+:: TUH
+    paṭāru "loosen" (73)
+
+:: TUH{MEŠ}
+    paṭāru "loosen" (2)
+
+:: TUK
+    išû "have" (18)
+
+:: TUKUL
+    kakku "stick" (2)
+
+:: TUK{MEŠ}
+    išû "have" (2)
+
+:: TUM₃
+    tabālu "take away" (2)
+
+:: TUR
+    ṣehru "small one" (59)
+    ṣehru "small" (37)
+    ṣehēru "be(come) small" (13)
+
+:: TUR.MEŠ
+    ṣehru "small" (91)
+
+:: TUR.TUR
+    ṣehru "small" (6)
+
+:: TUR₃
+    tarbaṣu "pen" (233)
+    tarbaṣu "pen (for cattle, rarely for sheep and goats, horses)" (9)
+
+:: TUR₃{MEŠ}
+    tarbaṣu "pen" (1)
+
+:: TU{MUŠEN}
+    summatu "(female) dove" (5)
+
+:: TU{MUŠEN}.MEŠ
+    summatu "dove" (1)
+
+:: TUŠ{MEŠ}
+    wašābu "sit (down)" (1)
+
+:: U
+    ubānu "finger" (253)
+
+:: UB.MEŠ
+    kibru "bank" (28)
+
+:: UBARA
+    kidinnu "protection" (1)
+
+:: UD
+    ūmu "day" (30)
+
+:: UD.DA
+    ṣētu "bright light" (23)
+
+:: UD.EŠ₃.EŠ₃
+    ūmu&amp;&amp;eššēšu "day&amp;&amp;(a feast day)" (2)
+
+:: UD.ME
+    ūmu "day" (8)
+
+:: UD.MES
+    ūmu "day" (1)
+
+:: UD.MEŠ
+    ūmu "day" (193)
+
+:: UDU
+    immeru "sheep" (17)
+
+:: UDU.IDIM{MEŠ}
+    bibbu "wild sheep" (3)
+    bibbu "planet" (1)
+
+:: UDU.MAŠ₂
+    uriṣu "male goat" (1)
+
+:: UDU.MAŠ₂.A{MEŠ}
+    uriṣu "male goat" (1)
+
+:: UDU.MEŠ
+    immeru "sheep" (112)
+
+:: UDU.NIM
+    hurāpu "spring lamb" (2)
+
+:: UDU.NITA₂
+    immeru "sheep" (8)
+
+:: UDU.NITA₂.MEŠ
+    immeru "sheep" (18)
+
+:: UDU.NITA₂{MEŠ}
+    immeru "sheep" (1)
+
+:: UDU.SISKUR
+    nīqu "offering" (3)
+    immeru "sheep" (1)
+
+:: UDU.SISKUR.MEŠ
+    nīqu "offering" (2)
+
+:: UDU.SISKUR{MEŠ}
+    immeru "sheep" (3)
+    nīqu "offering" (1)
+
+:: UDU.TI.LA
+    udutilû "live sheep" (5)
+
+:: UDUN
+    utūnu "kiln" (20)
+
+:: UDU{HI.A}{MEŠ}
+    immerū "sheep" (1)
+
+:: UDU{MEŠ}
+    immeru "sheep" (1)
+
+:: UD{MEŠ}
+    ūmu "day" (1)
+
+:: UGU
+    eli "on" (577)
+    muhhu "skull" (232)
+
+:: UGU.ME
+    eli "on" (4)
+
+:: UGULA
+    waklu "overseer" (11)
+
+:: UKKIN
+    puhru "assembly" (33)
+    kiništu "priesthood" (5)
+
+:: UKKIN.NA
+    puhru "assembly" (1)
+
+:: ULU₃
+    šūtu "south" (1504)
+
+:: UM.ME.A
+    ummiānu "investor" (3)
+
+:: UMBIN
+    ṣupru "(finger/toe-)nail" (1)
+
+:: UMUŠ
+    ṭēmu "report" (5)
+
+:: UN
+    nišu "people" (2)
+
+:: UN-MEŠ
+    nišu "people" (1)
+
+:: UN.HI.A
+    nišu "people" (1)
+
+:: UN.ME
+    nišu "people" (4)
+
+:: UN.MEŠ
+    nišu "people" (826)
+
+:: UNKIN
+    puhru "assembly" (1)
+
+:: UN{MEŠ}
+    nišu "people" (10)
+
+:: UR.BAR.RA
+    barbaru "wolf" (1)
+
+:: UR.BAR.RA.MEŠ
+    barbaru "wolf" (1)
+
+:: UR.GI₇
+    kalbu "dog" (13)
+
+:: UR.GI₇.MEŠ
+    kalbu "dog" (4)
+
+:: UR.GI₇{MEŠ}
+    kalbu "dog" (1)
+
+:: UR.IDIM
+    uridimmu "lion-man" (1)
+
+:: UR.KU
+    kalbu "dog" (4)
+
+:: UR.KU{ME}
+    kalbu "dog" (1)
+
+:: UR.KU{MEŠ}
+    kalbu "dog" (1)
+
+:: UR.MAH
+    nēšu "lion" (13)
+
+:: UR.MAH.MEŠ
+    nēšu "lion" (29)
+    urmahhu "lion colossus" (21)
+
+:: UR.SAG
+    qurādu "hero" (7)
+    qarrādu "warlike" (4)
+
+:: URI₃.GAL
+    urigallu "(divine) standard" (1)
+
+:: URU
+    ālu "city" (978)
+
+:: URU-DIL.DIL.MEŠ
+    ālu "city" (1)
+
+:: URU.DIDLI
+    ālu "city" (57)
+
+:: URU.DIDLI.MEŠ
+    ālu "city" (2)
+
+:: URU.MEŠ
+    ālu "city" (210)
+
+:: URU.URU
+    ālu "city" (19)
+
+:: URUDU
+    werû "copper" (132)
+    erû "copper" (11)
+    erî "copper" (2)
+
+:: URUDU.MEŠ
+    werû "copper" (12)
+
+:: URU{KI}
+    ālu "city" (6)
+
+:: URU{MEŠ}
+    ālu "city" (22)
+    madīnatu "province" (13)
+
+:: UR₂
+    pēmu "(upper) thigh" (1)
+
+:: UR₃
+    ūru "roof" (2)
+
+:: UR₅.MEŠ
+    šunūti "them" (1)
+
+:: UR₅.RA
+    hubullu "debt" (1)
+
+:: USAN
+    šimītān "evening" (630)
+
+:: USAN.U₄.ZAL
+    šimītān "evening" (2)
+
+:: USAN.ZAL.LA
+    šāt-urri "third watch of the night" (3)
+
+:: US₂.SA.DU
+    šiddu "side" (6)
+    ita "adjacent to" (5)
+
+:: US₅.UDU.HI.A
+    ṣēnu "flock" (56)
+
+:: UTAH
+    natāku "drip" (562)
+
+:: UTUL
+    utullu "herdsman" (7)
+
+:: UTUL₂
+    diqāru "large bowl" (23)
+
+:: UTUL₂.MEŠ
+    diqāru "large bowl" (37)
+
+:: UZ.MUŠEN.MEŠ
+    ūsu "goose" (1)
+
+:: UZ.TUR{MUŠEN}
+    paspasu "duck" (2)
+
+:: UZ.TUR{MUŠEN}.MEŠ
+    paspasu "duck" (2)
+
+:: UZU
+    šīru "flesh" (45)
+
+:: UZU.HI.A
+    šīru "flesh" (1)
+
+:: UZU.MEŠ
+    šīru "flesh" (27)
+
+:: UZ₃
+    enzu "goat" (3)
+
+:: U{LU₂}
+    šūtu "south" (1)
+
+:: UŠ
+    emēdu "lean on" (124)
+    šiddu "side" (49)
+    šūši "sixty" (20)
+
+:: UŠUMGAL
+    ušumgallu "lion-dragon" (1)
+
+:: UŠ₂
+    dāmu "blood" (4)
+    mūtu "death" (2)
+
+:: UŠ₂.MES
+    dāmu "blood" (1)
+
+:: UŠ₂.MEŠ
+    dāmu "blood" (10)
+    mūtānu "epidemic" (1)
+    mītu "dead person" (1)
+
+:: UŠ₂{LU₂}
+    mâtu "die" (1)
+
+:: UŠ₂{MEŠ}
+    mâtu "die" (5)
+    mūtu "death" (1)
+
+:: UŠ₈
+    uššu "foundation" (5)
+
+:: U₂
+    šammu "plant(s)" (17)
+
+:: U₂.GUG
+    sunqu "famine" (2)
+
+:: U₂.LAL
+    ašamšūtu "dust storm" (3)
+
+:: U₂.SAR
+    warqu "yellow thing" (1)
+
+:: U₃.TU
+    walādu "give birth" (3)
+
+:: U₄
+    ūmu "day" (178)
+    inūma "when" (1)
+
+:: U₄.HUL.GAL₂.E
+    uhulgallu "evil day" (1)
+
+:: U₄.ZAL
+    šāt-urri "third watch of the night" (31)
+
+:: U₄.ZAL.LA
+    šāt-urri "third watch of the night" (2)
+
+:: U₄{ME}
+    ūmu "day" (1)
+
+:: U₄{MEŠ}
+    ūmu "day" (1)
+
+:: U₅
+    rakbu "riding" (1)
+
+:: U₆.NIR
+    ziqqurratu "ziggurrat" (4)
+
+:: U₈
+    immertu "ewe" (3)
+    gurrutu "ewe" (1)
+
+:: U₈.HI.A
+    ṣēnu "flock" (1)
+
+:: U₈.UDU.HI.A
+    ṣēnu "flock" (1)
+
+:: U₈.UDU{HI.A}
+    immeru "sheep" (3)
+
+:: ZA
+    ṣabātu "seize" (1852)
+
+:: ZA.GIN₃
+    uqnû "lapis lazuli" (4)
+
+:: ZABAR
+    siparru "bronze" (205)
+
+:: ZABAR.DAB.BA
+    zabardabbu "bronze(-bowl) holder" (1)
+
+:: ZABAR.MEŠ
+    siparru "bronze" (47)
+
+:: ZAG
+    imna "on the right" (10)
+    pāṭu "edge" (8)
+    imitta "on the right" (2)
+
+:: ZAG.MUK
+    zagmukku "New Year (festival)" (1)
+
+:: ZAG.ZAG
+    pāṭu "edge" (3)
+
+:: ZAH₂
+    halāqu "be(come) lost" (11)
+    abātu "run away" (2)
+
+:: ZAH₂.MEŠ
+    halāqu "be(come) lost" (1)
+
+:: ZALAG₂
+    nūru "light" (3255)
+    nawāru "be(come) bright" (7)
+    nawru "bright one" (1)
+
+:: ZA₃
+    sahlu "cress" (13)
+
+:: ZI
+    tibûtu "rise" (7)
+    napištu "throat" (2)
+    nashu "torn" (2)
+    tebû "get up" (1)
+    nasāhu "tear out" (1)
+    tību "attack" (1)
+
+:: ZI.MEŠ
+    napištu "throat" (9)
+
+:: ZI₂
+    martu "gall bladder" (8)
+
+:: ZI₃
+    qēmu "flour" (1)
+
+:: ZI₃.DA
+    qēmu "flour" (1)
+
+:: ZU
+    edû "know" (1)
+
+:: ZU.AB
+    apsû "(cosmic) underground water" (31)
+
+:: ZU₂
+    suluppu "date" (99)
+    šinnu "tooth" (78)
+
+:: ZU₂.LAM.MA
+    suluppu "date" (1)
+
+:: ZU₂.LUM
+    suluppu "date" (124)
+
+:: ZU₂.LUM.MA
+    suluppu "date" (48)
+
+:: ZU₂.MEŠ
+    šinnu "tooth" (18)
+
+:: {ANŠE}GIR₃.NUN.NA.MEŠ
+    kūdanu "mule" (10)
+
+:: {E₂}PA.PAH.MEŠ
+    papāhu "cella" (1)
+
+:: {GI}ESI
+    ušû "diorite" (1)
+
+:: {GI}GARIM{MEŠ}
+    tamirtu "(a type of agricultural, especially irrigated, land)" (1)
+
+:: {GIŠ}AL
+    allu "hoe" (4)
+
+:: {GIŠ}AL.MEŠ
+    allu "hoe" (1)
+
+:: {GIŠ}APIN.MEŠ
+    epinnu "plough" (7)
+
+:: {GIŠ}ASAL₂
+    ṣarbatu "poplar" (1)
+
+:: {GIŠ}AŠ.TE
+    kussû "chair" (3)
+
+:: {GIŠ}AŠ.TI
+    kussû "chair" (6)
+
+:: {GIŠ}AŠ.TI.MEŠ
+    kussû "chair" (2)
+
+:: {GIŠ}BA.AN.DU₈.DU₈
+    banduddû "bucket" (1)
+
+:: {GIŠ}BAL
+    pilaqqu "spindle" (1)
+
+:: {GIŠ}BAN
+    qaštu "bow" (5)
+
+:: {GIŠ}BANŠUR
+    paššuru "dining tray" (20)
+
+:: {GIŠ}BANŠUR.MEŠ
+    paššuru "dining tray" (6)
+
+:: {GIŠ}BAN₂
+    sūtu "(a capacity measure)" (2)
+
+:: {GIŠ}DA
+    lēʾu "board" (1)
+
+:: {GIŠ}DAL
+    tallu "crosspiece" (1)
+
+:: {GIŠ}DIH₃
+    baltu "(a spiny plant)" (6)
+
+:: {GIŠ}DILIM₂
+    itqūru "spoon" (1)
+
+:: {GIŠ}DUSU
+    tupšikku "hod (for carrying bricks)" (1)
+
+:: {GIŠ}EREN
+    erēnu "cedar" (90)
+
+:: {GIŠ}EREN.BABBAR
+    tiālu "white cedar" (3)
+
+:: {GIŠ}EREN.MEŠ
+    erēnu "cedar" (9)
+
+:: {GIŠ}EREN.NA
+    erēnu "cedar" (1)
+
+:: {GIŠ}ESI
+    ušû "diorite" (65)
+
+:: {GIŠ}ESI.MEŠ
+    ušû "diorite" (5)
+
+:: {GIŠ}E₂
+    bītu "house" (2)
+
+:: {GIŠ}GADA.MEŠ
+    kitû "flax" (6)
+
+:: {GIŠ}GAN.DU₇
+    hittu "lintel" (3)
+
+:: {GIŠ}GAN.DU₇.MEŠ
+    hittu "lintel" (1)
+
+:: {GIŠ}GEŠTIN
+    karānu "vine" (11)
+
+:: {GIŠ}GEŠTIN.GIR₂.MEŠ
+    amurdinnu "bramble?" (1)
+
+:: {GIŠ}GEŠTIN.MEŠ
+    karānu "vine" (2)
+
+:: {GIŠ}GEŠTIN.MEŠ-ŠU₂
+    karānu "vine" (1)
+
+:: {GIŠ}GI
+    qanû "reed" (18)
+
+:: {GIŠ}GI.MEŠ
+    qanû "reed" (2)
+
+:: {GIŠ}GIDRU
+    haṭṭu "stick" (61)
+
+:: {GIŠ}GIDRU.MEŠ
+    haṭṭu "stick" (2)
+
+:: {GIŠ}GIGIR
+    narkabtu "chariot" (53)
+
+:: {GIŠ}GIGIR.HI.A.MEŠ
+    narkabtu "chariot" (1)
+
+:: {GIŠ}GIGIR.MEŠ
+    narkabtu "chariot" (214)
+
+:: {GIŠ}GIL{MEŠ}
+    kilimbu "reed bundle" (1)
+
+:: {GIŠ}GIR₃.GUB
+    gištappu "footstool" (3)
+
+:: {GIŠ}GIŠ
+    nīru "yoke" (5)
+
+:: {GIŠ}GIŠIMMAR
+    gišimmaru "date palm" (8)
+
+:: {GIŠ}GIŠIMMAR.MEŠ
+    gišimmaru "date palm" (7)
+
+:: {GIŠ}GIŠIMMAR{MEŠ}
+    gišimmaru "date palm" (1)
+
+:: {GIŠ}GU.ZA
+    kussû "chair" (235)
+
+:: {GIŠ}GU.ZA.MEŠ
+    kussû "chair" (12)
+
+:: {GIŠ}GU.ŠUR.MEŠ
+    gušūru "tree-trunk" (2)
+
+:: {GIŠ}GUB.MEŠ
+    zaqāpu "fix upright" (1)
+
+:: {GIŠ}GURUN.MEŠ
+    inbu "fruit" (2)
+
+:: {GIŠ}GUŠUR.MEŠ
+    gušūru "tree-trunk" (1)
+
+:: {GIŠ}HA.LU.UB₂
+    haluppu "(a tree)" (1)
+
+:: {GIŠ}HA.ŠUR
+    hašūru "(a kind of cypress)" (1)
+
+:: {GIŠ}HAŠHUR
+    hašūru "(a kind of cypress)" (1)
+
+:: {GIŠ}HAŠHUR.{GIŠ}GI
+    hašhūru&amp;&amp;apu "apple (tree)&amp;&amp;reed-bed" (1)
+
+:: {GIŠ}IG
+    daltu "door" (13)
+
+:: {GIŠ}IG.HI.A
+    daltu "door" (3)
+
+:: {GIŠ}IG.ME
+    daltu "door" (2)
+
+:: {GIŠ}IG.MEŠ
+    daltu "door" (93)
+
+:: {GIŠ}IG{MEŠ}
+    daltu "door" (1)
+
+:: {GIŠ}IN.NU.MEŠ
+    tibnu "straw" (2)
+
+:: {GIŠ}KAK
+    sikkatu "peg" (4)
+
+:: {GIŠ}KAK.TI
+    ūṣu "arrow" (1)
+
+:: {GIŠ}KIM₃
+    hilēpu "willow" (4)
+
+:: {GIŠ}KIN.GEŠTIN
+    ishunnatu "bunch of grapes" (2)
+
+:: {GIŠ}KIN.GEŠTIN.MEŠ
+    ishunnatu "bunch of grapes" (1)
+
+:: {GIŠ}KIRI₆
+    kirû "(fruit) plantation" (28)
+
+:: {GIŠ}KIRI₆.MAH
+    kirimahhu "park" (5)
+
+:: {GIŠ}KIRI₆.MEŠ
+    kirû "(fruit) plantation" (41)
+
+:: {GIŠ}KIŠI₁₆
+    ašāgu "(a common spiny plant)" (6)
+
+:: {GIŠ}KU.AN
+    miṭṭu "(a divine weapon)" (2)
+
+:: {GIŠ}LAL
+    tuqumtu "battle" (29)
+    ṣimittu "binding" (2)
+
+:: {GIŠ}LA₂
+    tuqumtu "battle" (2)
+
+:: {GIŠ}LE.U₅.UM.MEŠ
+    lēʾu "board" (1)
+
+:: {GIŠ}LI
+    burāšu "(species of) juniper" (4)
+    šurmēnu "cypress" (1)
+
+:: {GIŠ}LI.MEŠ
+    burāšu "(species of) juniper" (1)
+
+:: {GIŠ}MAR
+    marru "shovel" (8)
+
+:: {GIŠ}MAR.GID₂.DA.MEŠ
+    ereqqu "cart" (3)
+
+:: {GIŠ}MAR.MEŠ
+    marru "shovel" (2)
+
+:: {GIŠ}MAR.ŠE.RA.AH
+    narpasu "threshing shovel" (4)
+
+:: {GIŠ}MA₂
+    eleppu "ship" (8)
+
+:: {GIŠ}MA₂.GU.LA.MEŠ
+    magulû "(a big raft)" (6)
+
+:: {GIŠ}MA₂.KAN.NA
+    musukkannu "Magan-tree" (2)
+
+:: {GIŠ}MA₂.MEŠ
+    eleppu "ship" (60)
+
+:: {GIŠ}MA₂.U₅
+    rukūbu "vehicle" (1)
+
+:: {GIŠ}MA₂{MEŠ}
+    eleppu "ship" (5)
+
+:: {GIŠ}MES
+    mēsu "(a type of tree)" (1)
+
+:: {GIŠ}MES.MA₂.KAN
+    musukkannu "Magan-tree" (3)
+
+:: {GIŠ}MES.MA₂.KAN.NA
+    musukkannu "Magan-tree" (59)
+
+:: {GIŠ}MEŠ
+    iṣu "tree" (3)
+
+:: {GIŠ}NA₂
+    eršu "bed" (15)
+
+:: {GIŠ}NA₂.MEŠ
+    eršu "bed" (10)
+
+:: {GIŠ}NA₅
+    pitnu "chest" (1)
+
+:: {GIŠ}NA₅.MEŠ
+    pitnu "chest" (3)
+
+:: {GIŠ}NIG₂.GIDRU
+    haṭṭu "stick" (14)
+
+:: {GIŠ}NIG₂.GIDRU.MEŠ
+    haṭṭu "stick" (4)
+
+:: {GIŠ}NU.UR₂.MA
+    kuduppānu "(a kind of) pomegranate" (1)
+    nurmû "pomegranate" (1)
+
+:: {GIŠ}NU.UR₂.MA.MEŠ
+    nurmû "pomegranate" (2)
+
+:: {GIŠ}NU₂
+    eršu "bed" (6)
+
+:: {GIŠ}NU₂.MEŠ
+    eršu "bed" (6)
+
+:: {GIŠ}PAN
+    qaštu "bow" (70)
+
+:: {GIŠ}PAN.MEŠ
+    qaštu "bow" (7)
+
+:: {GIŠ}PEŠ₃
+    tittu "fig tree" (2)
+
+:: {GIŠ}SAG.KUL
+    sikkūru "bar" (1)
+
+:: {GIŠ}SAR
+    kirû "(fruit) plantation" (1)
+
+:: {GIŠ}TIR
+    qištu "forest" (5)
+
+:: {GIŠ}TIR.MEŠ
+    qištu "forest" (10)
+
+:: {GIŠ}TUG₂
+    taskarinnu "box tree" (49)
+
+:: {GIŠ}TUG₂.MEŠ
+    taskarinnu "box tree" (14)
+
+:: {GIŠ}TUKUL
+    kakku "stick" (153)
+
+:: {GIŠ}TUKUL.MEŠ
+    kakku "stick" (156)
+
+:: {GIŠ}UR₃
+    gušūru "tree-trunk" (1)
+
+:: {GIŠ}UR₃.MEŠ
+    gušūru "tree-trunk" (3)
+
+:: {GIŠ}U₃.SUB.MEŠ
+    nalbanu "brick mould" (1)
+
+:: {GIŠ}U₃.SUH₅
+    ašūhu "pine-tree" (1)
+
+:: {GIŠ}U₃.SUH₅.MEŠ
+    ašūhu "pine-tree" (3)
+
+:: {GIŠ}U₃.ŠUB
+    nalbattu "brick mould" (2)
+
+:: {GIŠ}U₃.ŠUB.MEŠ
+    nalbanu "brick mould" (13)
+
+:: {GIŠ}ZA₃.MI₂
+    sammû "lyre" (4)
+
+:: {GIŠ}ZU.MEŠ
+    lēʾu "board" (3)
+
+:: {GIŠ}{ŠIM}LI
+    burāšu "(species of) juniper" (1)
+
+:: {GIŠ}ŠEM{LI}
+    burāšu "(species of) juniper" (3)
+
+:: {GIŠ}ŠENNUR
+    šallūru "plum" (1)
+
+:: {GIŠ}ŠENNUR.BABBAR.RA
+    kamiššaru "pear (tree)" (1)
+
+:: {GIŠ}ŠIM.GAM.MA
+    ṣumlalû "(a spice plant)" (1)
+
+:: {GIŠ}ŠIM.GIG
+    kanaktu "(an incense-bearing tree)" (1)
+
+:: {GIŠ}ŠIM.LI
+    burāšu "(species of) juniper" (1)
+
+:: {GIŠ}ŠIM.ŠAL
+    šimiššalû "(type of) box-tree?" (1)
+
+:: {GIŠ}ŠIM{LI}
+    burāšu "(species of) juniper" (1)
+
+:: {GIŠ}ŠUB.BA
+    isqu "lot" (2)
+
+:: {GIŠ}ŠUDUN
+    nīru "yoke" (27)
+
+:: {GIŠ}ŠUR.MIN₃
+    šurmēnu "cypress" (115)
+
+:: {GU₄}AM
+    rīmu "wild bull" (9)
+
+:: {GU₄}AM.MEŠ
+    rīmu "wild bull" (6)
+
+:: {GU₄}AMAR
+    būru "(bull) calf" (1)
+
+:: {ID₂}MEŠ
+    nāru "river" (1)
+
+:: {IM}DUB
+    ṭuppu "tablet" (1)
+
+:: {IM}EŠ₅
+    šadû "east" (1)
+
+:: {IM}KUR
+    šadû "east" (1)
+    šadû "mountain" (1)
+
+:: {IM}KUR.RA
+    šadû "mountain" (6)
+
+:: {IM}MAR
+    amurru "west" (1)
+
+:: {IM}MAR.TU
+    amurru "Amurru" (4)
+    amurru "west" (1)
+
+:: {IM}MIN
+    ištānu "north" (1)
+
+:: {IM}SI
+    ištānu "north wind" (4)
+
+:: {IM}SI.SA₂
+    ištānu "north" (13)
+
+:: {IM}ULU₃
+    šūtu "south" (2)
+
+:: {IM}U₁₈.LU
+    šūtu "south" (12)
+
+:: {ITI}BAD.KA₂
+    pītu&amp;&amp;bābu "break&amp;&amp;gate" (6)
+
+:: {KUŠ}DA.E.SIR.MEŠ
+    mešēnu "sandal" (1)
+
+:: {KUŠ}DUH.ŠI.A
+    dušû "untanned leather?" (1)
+
+:: {KUŠ}E.SIR₂
+    šēnu "sandal" (13)
+
+:: {KUŠ}E.SIR₂.MEŠ
+    šēnu "sandal(s)" (1)
+
+:: {KUŠ}GID₂.DA
+    giṭṭu "parchment roll" (2)
+
+:: {KUŠ}GIL
+    šēnu "sandal" (4)
+
+:: {KUŠ}PA.MEŠ
+    appatu "bridle" (2)
+
+:: {KUŠ}SAR
+    šaṭāru "(piece of) writing" (1)
+
+:: {KUŠ}SAR{MEŠ}
+    šaṭāru "(piece of) writing" (13)
+
+:: {KUŠ}UMMU₃
+    nādu "(water-)skin" (1)
+
+:: {LU}GAL
+    rabû "great one" (1)
+
+:: {LU₂}3.U₅
+    tašlīšu "third man (of a chariot crew)" (2)
+
+:: {LU₂}3.U₅.MEŠ
+    tašlīšu "third man (of a chariot crew)" (4)
+
+:: {LU₂}A
+    māru "son" (66)
+
+:: {LU₂}A.BA
+    ṭupšarru "scribe" (4)
+
+:: {LU₂}A.ZU
+    asû "physician" (1)
+
+:: {LU₂}ADDA.MEŠ
+    pagru "body" (2)
+
+:: {LU₂}AGRIG
+    abarakku "steward" (3)
+    mašennu "(an administrator)" (1)
+
+:: {LU₂}ARAD
+    wardu "slave" (4)
+
+:: {LU₂}ARAD.MEŠ
+    wardu "slave" (1)
+
+:: {LU₂}AZLAG.MEŠ
+    ašlāku "washerman" (1)
+
+:: {LU₂}AŠGAB.MEŠ
+    aškāpu "leatherworker" (1)
+
+:: {LU₂}BUR.GUL
+    parkullu "stone carver" (1)
+
+:: {LU₂}DAM.GAR₃.MEŠ
+    tamkāru "merchant" (1)
+
+:: {LU₂}DI.KUD
+    dayyānu "judge" (2)
+
+:: {LU₂}DI.KUD{MEŠ}
+    dayyānu "judge" (4)
+
+:: {LU₂}DUB.SAR.MEŠ
+    ṭupšarru "scribe" (1)
+
+:: {LU₂}DUMU
+    māru "son" (22)
+
+:: {LU₂}DUMU.MEŠ
+    māru "son" (1)
+
+:: {LU₂}DUMU{MEŠ}
+    māru "son" (6)
+
+:: {LU₂}EN
+    bēlu "lord" (27)
+
+:: {LU₂}EN.NAM
+    bēlu&amp;&amp;pīhātu "lord&amp;&amp;post" (79)
+
+:: {LU₂}EN.NAM.MEŠ
+    bēlu&amp;&amp;pīhātu "lord&amp;&amp;post" (14)
+
+:: {LU₂}EN.URU
+    bēlu&amp;&amp;ālu "lord&amp;&amp;city" (35)
+
+:: {LU₂}EN.URU.MEŠ
+    bēlu&amp;&amp;ālu "lord&amp;&amp;city" (16)
+
+:: {LU₂}ENGAR
+    ikkaru "farmer" (1)
+
+:: {LU₂}ENSI
+    šāʾilu "asker" (1)
+
+:: {LU₂}ENSI₂
+    iššiakku "city-ruler" (1)
+
+:: {LU₂}ERIM.HI.A
+    ṣābu "people" (2)
+    ummānu "military force" (1)
+
+:: {LU₂}ERIM.MEŠ
+    ṣābu "people" (88)
+
+:: {LU₂}ERIN₂
+    uqu "people" (10)
+
+:: {LU₂}ERIN₂{MEŠ}
+    uqu "people" (30)
+
+:: {LU₂}GAL
+    rabû "great one" (139)
+    rabû "big" (10)
+
+:: {LU₂}GAL-DU₃
+    rabû&amp;&amp;banû "great one&amp;&amp;good one" (6)
+    rabû&amp;&amp;banû "great one&amp;&amp;create" (1)
+
+:: {LU₂}GAL.BI.LUL
+    rabû&amp;&amp;šāqû "great&amp;&amp;giver to drink" (4)
+
+:: {LU₂}GAL.ERIN₂
+    mumaʾʾeru "commander" (1)
+
+:: {LU₂}GAL.ERIN₂{MEŠ}
+    mumaʾʾeru "commander" (1)
+
+:: {LU₂}GAL.GAL
+    rabû "great one" (11)
+
+:: {LU₂}GAL.KAR.MEŠ
+    rabû&amp;&amp;kāru "great one&amp;&amp;quay" (3)
+
+:: {LU₂}GAL.MAH
+    galamāhu "chief lamentation priest" (2)
+
+:: {LU₂}GAL.MEŠ
+    rabû "great one" (8)
+
+:: {LU₂}GAL.UKKIN
+    mumaʾʾeru "commander" (1)
+
+:: {LU₂}GAL.UKKIN{MEŠ}
+    mumaʾʾeru "commander" (1)
+
+:: {LU₂}GALA
+    kalû "lamentation-priest" (5)
+
+:: {LU₂}GALA.MEŠ
+    kalû "lamentation-priest" (10)
+
+:: {LU₂}GALA{MEŠ}
+    kalû "lamentation priest" (1)
+
+:: {LU₂}GAL{MEŠ}
+    rabû "great one" (1)
+
+:: {LU₂}GAR
+    šaknu "appointee" (73)
+
+:: {LU₂}GAR.KUR
+    šaknu&amp;&amp;mātu "appointee&amp;&amp;land" (48)
+
+:: {LU₂}GAR.KUR.MEŠ
+    šaknu&amp;&amp;mātu "appointee&amp;&amp;land" (9)
+
+:: {LU₂}GAR.MEŠ
+    šaknu "appointee" (3)
+
+:: {LU₂}GAR.UŠ₄
+    šaknu&amp;&amp;ṭēmu "appointee&amp;&amp;report" (11)
+
+:: {LU₂}GAR.UŠ₈
+    šaknu&amp;&amp;ṭēmu "appointee&amp;&amp;report" (1)
+
+:: {LU₂}GID₂.DA.MEŠ
+    šaddidu "hauler" (1)
+
+:: {LU₂}GIG
+    murṣu "illness" (1)
+
+:: {LU₂}GIG{ME}
+    marṣu "sick" (1)
+
+:: {LU₂}GIG{MEŠ}
+    marṣu "sick" (2)
+
+:: {LU₂}GIR₂.LA₂
+    ṭābihu "slaughterer" (2)
+
+:: {LU₂}GIR₂.LA₂{MEŠ}
+    ṭābihu "slaughterer" (2)
+
+:: {LU₂}GIR₃.NITA₂
+    šakkanakku "(military) governor" (3)
+
+:: {LU₂}GIR₃.NITA₂.MEŠ
+    šakkanakku "(military) governor" (22)
+
+:: {LU₂}GIR₃.SI₃.GA
+    gerseqqû "(palace, temple attendant)" (1)
+
+:: {LU₂}GIŠ.DA
+    aʾlu "tribe?" (1)
+
+:: {LU₂}GURUŠ
+    eṭlu "manly one" (1)
+
+:: {LU₂}GU₂.EN.NA
+    šandabakku "chief accountant" (14)
+
+:: {LU₂}HAL
+    bārû "diviner" (10)
+
+:: {LU₂}HAL.MEŠ
+    bārû "diviner" (2)
+
+:: {LU₂}IR₃
+    wardu "slave" (1)
+
+:: {LU₂}IR₃{MEŠ}
+    wardu "slave" (2)
+
+:: {LU₂}I₃.SUR
+    ṣāhitu "oil-presser" (1)
+
+:: {LU₂}KA.PIRIG.MEŠ
+    wāšipu "sorcerer" (4)
+
+:: {LU₂}KA.PIRIG₃
+    wāšipu "sorcerer" (1)
+
+:: {LU₂}KA.ṢIR.MEŠ
+    kāṣiru "knotter" (1)
+
+:: {LU₂}KAB.SAR
+    kabšarru "stone-carver" (2)
+
+:: {LU₂}KAL.LAP.MEŠ
+    kallāpu "(a foot-soldier)" (1)
+
+:: {LU₂}KIN.GI₄.A
+    mār-šipri "messenger" (2)
+
+:: {LU₂}KUL.LUM
+    sīrāšû "brewer" (1)
+
+:: {LU₂}KUR₂
+    nakru "enemy" (92)
+
+:: {LU₂}KUR₂.MEŠ
+    nakru "enemy" (2)
+
+:: {LU₂}KU₃.DIM
+    kutīmu "goldsmith" (1)
+
+:: {LU₂}KU₃.DIM{MEŠ}
+    kutīmu "goldsmith" (2)
+
+:: {LU₂}KU₃.DIM₂
+    kutīmu "goldsmith" (2)
+
+:: {LU₂}KU₄
+    ēribu "entering" (1)
+
+:: {LU₂}KU₄.E₂
+    ēribu&amp;&amp;bītu "entering&amp;&amp;house" (8)
+
+:: {LU₂}KU₄.E₂.MEŠ
+    ēribu&amp;&amp;bītu "entering&amp;&amp;house" (1)
+
+:: {LU₂}LAGAR{MEŠ}
+    lagaru "(a priest)" (2)
+
+:: {LU₂}LUNGA₂
+    sīrāšû "brewer" (4)
+
+:: {LU₂}LUNGA₃.MEŠ
+    sīrāšû "brewer" (1)
+
+:: {LU₂}MAH.MEŠ
+    ṣīru "exalted one" (6)
+
+:: {LU₂}MAŠ.MAŠ
+    wāšipu "sorcerer" (3)
+
+:: {LU₂}MAŠ.MAŠ.ME.EN
+    mašmaššu "incantation priest" (1)
+
+:: {LU₂}MAŠ.MAŠ.MEŠ
+    wāšipu "sorcerer" (1)
+
+:: {LU₂}MAŠ.MAŠ{MEŠ}
+    wāšipu "sorcerer" (2)
+
+:: {LU₂}MA₂.LAH₅.MEŠ
+    malāhu "sailor" (2)
+
+:: {LU₂}MEŠ
+    awīlu "man" (2)
+
+:: {LU₂}MUHALDIM.MEŠ
+    nuhatimmu "cook" (1)
+
+:: {LU₂}MUŠ.LAH₄.MEŠ
+    mušlalahhu "snake charmer" (1)
+
+:: {LU₂}NAGAR
+    nagāru "joiner" (3)
+
+:: {LU₂}NAM
+    pīhātu "post" (4)
+
+:: {LU₂}NAM.MEŠ
+    pīhātu "post" (27)
+
+:: {LU₂}NAR
+    nāru "musician" (2)
+
+:: {LU₂}NAR.GAL.MEŠ
+    nargallu "chief musician" (1)
+
+:: {LU₂}NAR.ME
+    nāru "musician" (2)
+
+:: {LU₂}NAR.MEŠ
+    nāru "musician" (37)
+
+:: {LU₂}NIGIR
+    nāgiru "(town) crier" (1)
+
+:: {LU₂}NIMGIR
+    nāgiru "(town) crier" (11)
+    nagīru "herald" (1)
+
+:: {LU₂}NIMGIR₂
+    nāgiru "(town) crier" (5)
+
+:: {LU₂}NITA{MEŠ}
+    zikaru "male" (1)
+
+:: {LU₂}NU.BANDA₃
+    laputtû "lieutenant" (1)
+
+:: {LU₂}NU.{GIŠ}KIRI₆
+    nukaribbu "gardener" (4)
+
+:: {LU₂}NU.{GIŠ}KIRI₆.MEŠ
+    nukaribbu "gardener" (1)
+
+:: {LU₂}NUN
+    rubû "ruler" (1)
+
+:: {LU₂}NUN.MEŠ
+    rubû "ruler" (22)
+
+:: {LU₂}NUN{MEŠ}
+    rubû "ruler" (2)
+
+:: {LU₂}RIG₇
+    širku "temple serf" (1)
+
+:: {LU₂}SAG
+    ša&amp;&amp;rēšu "that&amp;&amp;head" (2)
+
+:: {LU₂}SAG.MEŠ
+    šūt&amp;&amp;rēšu "who(m)&amp;&amp;head" (3)
+
+:: {LU₂}SANGA
+    šangû "priest" (2)
+
+:: {LU₂}SANGA.MEŠ
+    šangû "priest" (1)
+
+:: {LU₂}SIG
+    wēdû "prominent" (3)
+
+:: {LU₂}SIMUG
+    nappāhu "smith" (1)
+
+:: {LU₂}SIPA
+    rēʾû "shepherd" (20)
+
+:: {LU₂}SUKKAL
+    šukkallu "(a court official)" (4)
+
+:: {LU₂}TIL.GID₂.MEŠ
+    qīpu "believable one" (1)
+
+:: {LU₂}TIRUM.MEŠ
+    tīru "courtier" (13)
+
+:: {LU₂}TUG₂.KAL.MEŠ
+    mukabbû "stitcher" (1)
+
+:: {LU₂}TUR
+    ṣehru "small" (1)
+    ṣuhāru "boy" (1)
+
+:: {LU₂}UGULA
+    waklu "overseer" (1)
+
+:: {LU₂}UKKIN
+    kiništu "priesthood" (21)
+
+:: {LU₂}ULU₃
+    awīlu "man" (1)
+
+:: {LU₂}UN.MEŠ
+    nišu "people" (1)
+
+:: {LU₂}UNKIN
+    puhru "assembly" (1)
+
+:: {LU₂}UN{MEŠ}
+    nišu "people" (47)
+
+:: {LU₂}UŠ₂{MEŠ}
+    mītu "dead person" (1)
+
+:: {LU₂}U₄.SAKAR.ŠE.GA
+    simmagir "(a minister of the Babylonian king)" (1)
+
+:: {LU₂}{GIŠ}GIGIR.MEŠ
+    awīlu&amp;&amp;narkabtu "man&amp;&amp;chariot" (1)
+
+:: {LU₂}ŠAGAN.LA₂.MEŠ
+    šamallû "purse-bearer" (1)
+
+:: {LU₂}ŠAMAN₂.LA₂
+    šamallû "purse-bearer" (1)
+
+:: {LU₂}ŠA₃.TAM
+    šatammu "temple administrator" (35)
+    šatammu "administrator" (12)
+
+:: {LU₂}ŠA₃.TAM.MU
+    šatammu "administrator" (1)
+
+:: {LU₂}ŠEŠ
+    ahu "brother" (3)
+
+:: {LU₂}ŠID
+    iššiakku "city-ruler" (7)
+
+:: {LU₂}ŠITIM
+    itinnu "builder" (1)
+
+:: {LU₂}ŠITIM.GAL.ME
+    šitimgallu "master builder" (4)
+
+:: {LU₂}ŠU.GI.MEŠ
+    šību "old (person)" (1)
+
+:: {LU₂}ŠU.KU₆.MEŠ
+    bāʾeru "hunter" (1)
+
+:: {MUL}APIN
+    epinnu "(seed) plough" (2)
+
+:: {MUL}MAR.GID₂.DA
+    ereqqu "cart" (3)
+
+:: {MUNUS}AB₂.ZA.ZA.MEŠ
+    apsasû "(an exotic bovid)" (1)
+
+:: {MUNUS}AGRIG.MEŠ
+    abarakkatu "stewardess" (2)
+
+:: {MUNUS}AMA
+    ummu "mother" (1)
+
+:: {MUNUS}ANŠE.EDIN.NA
+    serremtu "female onager" (3)
+
+:: {MUNUS}ERIM.MEŠ
+    sekretu "enclosed (woman)" (6)
+
+:: {MUNUS}KAL.TUR.MEŠ
+    batultu "adolescent" (1)
+
+:: {MUNUS}KALA.GA
+    dannatu "fortified (place)" (1)
+
+:: {MUNUS}KUR₂
+    nukurtu "enmity" (1)
+
+:: {MUNUS}NAR.MEŠ
+    nārtu "female musician" (26)
+
+:: {MUNUS}SIG₅
+    damqu "good one" (3)
+
+:: {MUNUS}UN.MEŠ
+    sekretu "enclosed (woman)" (18)
+
+:: {NA₄}AD.BAR
+    atbaru "basalt" (6)
+
+:: {NA₄}BABBAR.DIL.MEŠ
+    pappardaliu "(a whitish semiprecious stone)" (1)
+
+:: {NA₄}BABBAR.DILI
+    pappardaliu "(a whitish semiprecious stone)" (10)
+
+:: {NA₄}BABBAR.DILI.MEŠ
+    pappardaliu "(a whitish semiprecious stone)" (4)
+
+:: {NA₄}BABBAR.MIN₅
+    papparmīnu "(a whitish semiprecious stone)" (5)
+
+:: {NA₄}BABBAR.MIN₅.MEŠ
+    papparmīnu "(a whitish semiprecious stone)" (1)
+
+:: {NA₄}DAG.GAZ
+    takkassu "unworked block" (1)
+
+:: {NA₄}DUR₂.MI.NA
+    turminû "(a breccia or marble)" (4)
+
+:: {NA₄}DUR₂.MI.NA.BAN₃.DA
+    turminabandû "(a breccia or marble)" (58)
+
+:: {NA₄}EN.GI.SA₆
+    engisû "(a stone)" (2)
+
+:: {NA₄}GI.RIM.HI.LI.BA
+    girimmu&amp;&amp;hilibû "(a kind of fruit)&amp;&amp;the underworld" (4)
+
+:: {NA₄}GIRIM.HI.LI.BA
+    girimmu&amp;&amp;hilibû "(a kind of fruit)&amp;&amp;the underworld" (2)
+
+:: {NA₄}GIŠ.NU.GAL
+    ašnugallu "alabaster" (2)
+
+:: {NA₄}GIŠ.NU₁₁.GAL
+    ašnugallu "alabaster" (118)
+
+:: {NA₄}GUG
+    sāmtu "redness" (7)
+
+:: {NA₄}GUG.MEŠ
+    sāmtu "redness" (1)
+
+:: {NA₄}GU₂
+    kišādu "neck" (2)
+
+:: {NA₄}IGI.II.MEŠ
+    īnu "eye" (2)
+
+:: {NA₄}KA.GI.NA
+    husāru "haematite?" (1)
+
+:: {NA₄}KIŠIB
+    kunukku "seal" (21)
+
+:: {NA₄}KUN₄
+    askuppu "(threshold) slab" (2)
+
+:: {NA₄}KUN₄.MEŠ
+    askuppu "(threshold) slab" (8)
+
+:: {NA₄}MUŠ.GIR₂
+    muššāru "(a semiprecious stone)" (3)
+
+:: {NA₄}NA.RU₂.A
+    narû "stele" (48)
+
+:: {NA₄}NA.RU₂.A.MEŠ
+    narû "stele" (21)
+
+:: {NA₄}NIR₂
+    hulālu "(a valuable stone)" (4)
+
+:: {NA₄}PA.MEŠ
+    ayyartu "white coral?" (1)
+
+:: {NA₄}RU₂.A.MEŠ
+    narû "stele" (2)
+
+:: {NA₄}SAG.GIL.MUD
+    sangilimud "(a bluish stone)" (5)
+
+:: {NA₄}UGU.AŠ.GI₃.GI₃
+    husīgu "(a stone)" (1)
+
+:: {NA₄}ZA.GIN₂
+    uqnû "lapis lazuli" (1)
+
+:: {NA₄}ZA.GIN₂.MEŠ
+    uqnû "lapis lazuli" (1)
+
+:: {NA₄}ZA.GIN₃
+    uqnû "lapis lazuli" (53)
+
+:: {NA₄}ZU₂
+    ṣurru "obsidian" (21)
+    šinnu "tooth" (3)
+
+:: {NA₄}ZU₂.MAŠ.DA₃
+    šinnu&amp;&amp;ṣabītu "tooth&amp;&amp;gazelle" (3)
+
+:: {NA₄}{GIŠ}NU₁₁.GAL
+    ašnugallu "alabaster" (3)
+
+:: {NA₄}ŠIM.BI.ZI.DA
+    guhlu "kohl" (2)
+
+:: {SAL}PEŠ₄{MEŠ}
+    arītu "pregnant (woman)" (1)
+
+:: {SIG₂}ZA.GIN₃.MEŠ
+    uqnû "lapis lazuli" (1)
+
+:: {SIG₂}ZA.GIN₃.MI
+    takiltu "(a precious blue-purple wool)" (4)
+
+:: {SIG₂}ZA.GIN₃.SA₅
+    argamannu "purple" (9)
+
+:: {SIK₂}ZA.GIN₃.MI
+    argamannu "purple" (1)
+
+:: {SIK₂}ZA.GIN₃.SA₅
+    argamannu "purple" (1)
+
+:: {TUG₂}GADA
+    kitû "flax" (13)
+
+:: {TUG₂}GADA.MEŠ
+    kitû "flax" (17)
+
+:: {TUG₂}SAGŠU
+    kubšu "headcloth" (1)
+
+:: {TUG₂}SIG₂
+    sissiktu "hem" (2)
+
+:: {UDU}NIM.MEŠ
+    hurāpu "spring lamb" (1)
+
+:: {UDU}SILA₄.MEŠ
+    puhādu "lamb" (2)
+
+:: {UDU}SISKUR
+    nīqu "offering" (73)
+
+:: {UDU}SISKUR.MEŠ
+    nīqu "offering" (91)
+
+:: {UDU}SISKUR₂
+    nīqu "offering" (17)
+
+:: {URU}AN.ZA.GAR₃.MEŠ
+    dimtu "tower" (1)
+
+:: {URU}HAL.ṢU
+    birtu "fort" (8)
+
+:: {URU}HAL.ṢU.MEŠ
+    birtu "fort" (23)
+
+:: {URU}KASKAL
+    harrānu "way" (1)
+
+:: {UZU}GAG.ZAG.GA
+    kaskasu "gristly extension of breast-bone" (1)
+
+:: {UZU}ME.HE₂{MEŠ}
+    himṣu "fatty tissue" (1)
+
+:: {UZU}UR₅.UŠ₂.MEŠ
+    têrtu "instruction" (1)
+
+:: {U₂}GAMUN
+    kamūnu "cumin" (1)
+
+:: {U₂}LAL
+    ašqulālu "(a weapon)" (1)
+
+:: {U₂}SUM.SAR
+    šūmū "garlic" (1)
+
+:: {U₂}SUM.SIKIL.SAR
+    šamaškillu "(a type of onion)" (1)
+
+:: {U₂}ZAG.HI.LI{SAR}
+    sahliu "(a cultivated plant)" (2)
+
+:: {ŠE}BULUG₃.MEŠ
+    buqlu "malt" (1)
+
+:: {ŠE}GIŠ.I₃
+    šamaššammū "sesame" (4)
+
+:: {ŠE}GIŠ.I₃.MEŠ
+    šamaššammū "sesame" (1)
+
+:: {ŠE}IN.NU
+    tibnu "straw" (1)
+
+:: {ŠE}IN.NU.HI.A
+    tibnu "straw" (1)
+
+:: {ŠE}IN.NU.MEŠ
+    tibnu "straw" (1)
+
+:: {ŠE}MUNU₄
+    buqlu "malt" (1)
+
+:: {ŠE}NUMUN
+    zēru "seed(s)" (1)
+
+:: {ŠE}NUMUN.MEŠ
+    zēru "seed(s)" (2)
+
+:: {ŠIM}EN.DI
+    suādu "(an aromatic plant)" (1)
+
+:: {ŠIM}LI
+    burāšu "(species of) juniper" (26)
+    šurmēnu "cypress" (3)
+    burāšu "juniper" (2)
+
+:: |KA×MI|
+    adāru "be(come) dark" (5)
+
+:: ŠAH
+    šahû "pig" (12)
+
+:: ŠAH-{GIŠ}GI.MEŠ
+    šahapu "wild boar" (1)
+
+:: ŠAH.MEŠ
+    šahû "pig" (14)
+
+:: ŠAM₂
+    šâmu "buy" (1)
+
+:: ŠAPRA
+    šabrû "a temple official" (1)
+
+:: ŠAR₂
+    kiššatu "totality" (74)
+    šār "3,600" (11)
+
+:: ŠAR₂.RA
+    mādu "many" (1)
+
+:: ŠA₃
+    libbu "interior" (212)
+    libbu "inner body" (34)
+
+:: ŠA₃.BAL
+    līpu "descendant" (1)
+
+:: ŠA₃.BAL.BAL
+    līpu "descendant" (32)
+
+:: ŠA₃.GI.GURU₆.A
+    šagigurrû "free-will offering" (1)
+
+:: ŠA₃.IGI.GURU₆.MEŠ
+    šagigurrû "free-will offering" (1)
+
+:: ŠA₃.NIGIN
+    tīrānu "coils" (1)
+
+:: ŠA₃.SE₃.SE₃.KE
+    ṣummirātu "desires" (1)
+
+:: ŠA₃.TAM
+    šatammu "administrator" (3)
+
+:: ŠA₃.TUR₃
+    šassūru "womb" (10)
+
+:: ŠA₆
+    gišimmaru "date palm" (1)
+
+:: ŠE
+    šeʾu "barley" (46)
+    û "grain" (4)
+    uṭṭatu "edible grain" (2)
+
+:: ŠE.AM
+    û "grain" (12)
+
+:: ŠE.AM.MEŠ
+    û "grain" (17)
+
+:: ŠE.BAL.LA
+    hirigalû "(a kind of flour)" (1)
+
+:: ŠE.BAR
+    uṭṭatu "edible grain" (7)
+    šeʾu "barley" (3)
+
+:: ŠE.GA
+    šemû "hear" (7)
+    magāru "consent" (6)
+    mitgurtu "agreement" (1)
+
+:: ŠE.GIŠ
+    šamaššammū "sesame" (116)
+
+:: ŠE.GIŠ.I₃
+    šamaššammū "sesame" (127)
+
+:: ŠE.IM
+    û "grain" (7)
+
+:: ŠE.IM.MEŠ
+    û "grain" (1)
+
+:: ŠE.IN.NU
+    tibnu "straw" (4)
+
+:: ŠE.IN.NU.MEŠ
+    tibnu "straw" (13)
+
+:: ŠE.KIN.TAR
+    eṣēdu "harvest" (1)
+
+:: ŠE.KIN.TAR.MEŠ
+    eṣēdu "harvest" (2)
+
+:: ŠE.MEŠ
+    marû "fattened" (1)
+
+:: ŠE.NUMUN
+    zēru "seed(s)" (2)
+
+:: ŠE.NUMUN{MEŠ}
+    zēru "seed(s)" (2)
+
+:: ŠE.PAD.LIM
+    šeʾu "barley" (1)
+
+:: ŠE.PAD.MEŠ
+    û "grain" (6)
+
+:: ŠE.UM.ME
+    šeʾu "barley" (1)
+
+:: ŠE.UM.MEŠ
+    šeʾu "barley" (3)
+
+:: ŠED₇
+    kūṣu "coldness" (152)
+
+:: ŠED₇{MEŠ}
+    kaṣû "cold" (1)
+
+:: ŠEG₃
+    zunnu "rain" (23)
+
+:: ŠEG₃.MEŠ
+    zunnu "rain" (17)
+
+:: ŠEG₃{MEŠ}
+    zunnu "rain" (6)
+
+:: ŠEŠ
+    ahu "brother" (73)
+
+:: ŠEŠ.MEŠ
+    ahu "brother" (4)
+
+:: ŠEŠ₂
+    pašāšu "anoint" (7)
+
+:: ŠI.ŠI
+    abiktu "defeat" (1)
+
+:: ŠID
+    iššiakku "city-ruler" (358)
+    manûtu "count(ing)" (2)
+    minûtu "count(ing)" (1)
+
+:: ŠID-BI
+    manû "counted" (1)
+
+:: ŠID{MEŠ}
+    manû "counted" (1)
+
+:: ŠIM
+    rīqu "aromatic substance" (1)
+
+:: ŠIM.HI.A
+    rīqu "aromatic substance" (55)
+
+:: ŠIM.HI.A.MEŠ
+    rīqu "aromatic substance" (1)
+
+:: ŠIM.LI
+    šurmēnu "cypress" (1)
+
+:: ŠIM.MEŠ
+    rīqu "aromatic substance" (10)
+
+:: ŠIM.SES
+    murru "bitterness" (3)
+
+:: ŠIM{LI}
+    burāšu "(species of) juniper" (1)
+
+:: ŠU
+    qātu "hand" (53)
+    kisallu "forecourt" (1)
+    esikillu "(a temple building)" (1)
+    hengallu "plenty" (1)
+    dunnu "power" (1)
+    utūnu "kiln" (1)
+    kirmahhu "large oven" (1)
+    pūru "(stone) bowl" (1)
+    bursaggu "(a kind of offering)" (1)
+    burgû "(a type of offering)" (1)
+    šūši "sixty" (1)
+    marhallu "(a variety of carnelian?)" (1)
+
+:: ŠU-MIN
+    qātu "hand" (1)
+
+:: ŠU.II
+    qātu "hand" (162)
+
+:: ŠU.KA.AN
+    siparru "bronze" (1)
+
+:: ŠU.MEŠ
+    qātu "hand" (2)
+
+:: ŠU.NIGIN
+    napharu "total" (20)
+
+:: ŠU.NIGIN₂
+    napharu "total" (8)
+
+:: ŠU.SI
+    ubānu "finger" (31)
+
+:: ŠU.SI.MEŠ
+    ubānu "finger" (17)
+
+:: ŠUB
+    maqātu "fall" (37)
+    nadû "throw (down)" (1)
+    mušamqitu "one who overthrows" (1)
+
+:: ŠUB{MEŠ}
+    maqātu "fall" (1)
+    nadû "throw (down)" (1)
+
+:: ŠUD₃
+    karābu "pray" (3)
+
+:: ŠUKU{HI.A}
+    kurummatu "food allocation" (1)
+
+:: ŠUR
+    zanānu "rain" (19)
+    ṣarāru "flash" (5)
+
+:: ŠU{II}
+    qātu "hand" (13)
+
+:: ŠU₂
+    rabû "set" (1328)
+    kiššatu "totality" (596)
+    erbu "(sun)set" (502)
+    erēpu "cloud over" (332)
+
+:: ŠU₂.ŠU₂
+    erēpu "cloud over" (1269)
+    rabû "set" (20)
+
+:: ŠU₂{ME}
+    rabû "set" (2)
+    erēpu "cloud over" (1)
+
+:: ŠU₂{MEŠ}
+    rabû "set" (13)
+    erēpu "cloud over" (1)
