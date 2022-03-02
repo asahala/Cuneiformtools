@@ -1,6 +1,18 @@
 # Cuneiformtools
 Tools for processing cuneiform languages
 
+## xlit_tools.py
+Script for normalizing cuneiform transliteration into Oracc notation. This script contains following features (with examples):
+
+* accent/numeral index to subscript conversion: ```ku[rx(DU)-rá] --> kurₓ(DU)-ra₂```
+* determinative unification, e.g. normalizing and fixing various determinative conditions into Oracc notation, either in lower or uppercase ```d.en-lil₂ --> {d}en-lil₂```
+* soft hashing words in their sign name notation: ```{d}en-lil₂-la₂-še₃ --> AN EN KID LAL EŠ₂```
+* comparison of soft hashes for finding correspondences in different transliteration conventions, e.g. strings ```a-ka₃-am-gim``` and ```a-ga-am-gin₇``` are considered to be the same word as their soft hash is ```A GA |GUD×KUR| DIM₂```
+* use ```normalize_all()``` to run all relevant normalizations automatically.
+
+To use, ```import xlit_tools``` and create instance of ```XLITTools()```, see ```unit_test()``` for example.
+
+
 ## AA_signlist.json
 Borger, Labat and OBO numbers based on Adam Anderson's spreadsheet
 
