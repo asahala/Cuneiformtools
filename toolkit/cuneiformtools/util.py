@@ -158,15 +158,20 @@ def zip_xlit(signs, delimiters):
 
 class Transducer:
 
-    """ Transducer for ignore-but-preserve replacements """
+    """ Transducer for bracket-insensitive substitutions.
+    Consume input string character by character and either
+    write or transduce them on the output tape;
 
-    def __init__(self, source, target, xlit, ignore):
-        self.source = source
-        self.target = target
-        self.xlit = xlit
+    source and target must be interpolated or chunked to
+    same length.
+
+    E.g. a substitution pair {d}HAR : {d}SAGGAR will replace
+    {d}HA[R-DU3] with {d}SAGG[AR-DU3], {[d}HA]R-DU3 with
+    {[d}SAGG]AR-DU3 etc. """
+
+    def __init__(self, ignore):
         self.ignore = ignore
-        self.output_tape = []
-        
+
     def _reset_tapes(self):
         self.tmp_out_tape = {'orig': [], 'trans': []}
         self.s_ = self.source.copy()
@@ -176,12 +181,27 @@ class Transducer:
         self.output_tape += tape
         self._reset_tapes()
 
-    def run(self, sign=True):
+    def interpolate(self):
+        pass
+
+    def chunk(self):
+        pass
+
+    def run(self, source, target, xlit, sign=False):
+
+        if not xlit:
+            return xlit
+
+        self.output_tape = []
 
         if sign:
-            self.xlit = '§' + self.xlit + '§'
-            self.source = ['§'] + self.source + ['§']
-            self.target = ['§'] + self.target + ['§']
+            self.xlit = '§' + xlit + '§'
+            self.source = ['§'] + source + ['§']
+            self.target = ['§'] + target + ['§']
+        else:
+            self.source = source
+            self.target = target
+            self.xlit = xlit
 
         self._reset_tapes()
         
@@ -195,26 +215,27 @@ class Transducer:
             self.tmp_out_tape['orig'].append(c)
 
             if c == self.s_[0]:
-                """ transduce """
+                """ Transduce from source alphabet to target
+                alphabet """
                 c_orig = c
                 c_trans = self.t_.pop(0)
                 self.s_.pop(0)
                 #print(c, c_trans, '_',  self.tmp_out_tape, sep='\t')
                 self.tmp_out_tape['trans'].append(c_trans)
             else:
-                """ reject output tape """
+                """ Reject output tape """
                 #print(c, c, 'rej', self.tmp_out_tape, sep='\t')
                 self._write_to_output_tape(self.tmp_out_tape['orig'])
 
             if not self.s_:
-                """ accept output tape """
+                """ Accept output tape """
                 #print(c, c_trans, 'acc', self.tmp_out_tape, sep='\t')                        
                 self._write_to_output_tape(self.tmp_out_tape['trans'])
 
         self._write_to_output_tape(self.tmp_out_tape['orig'] )
 
-        """ Cleanup: mostly necessary if source and target
-        have a big length difference """
+        """ Cleanup for free substitutions in case source and
+        target differ a lot in length """
         stack = ''
         o = ''
         for c in ''.join(self.output_tape):
@@ -232,24 +253,30 @@ class Transducer:
         return o
 
 
-def replace(source, target, xlit, sign=True, ignore=''):
+def replace(source, target, xlit, sign=False, ignore=''):
     """ Replace strings in transliteration preserving
     bracket positions.
         
     :param source          what to replace
     :param target          replace with this
     :param xlit            input transliteration
+    :param sign            constrain substitutions to full signs
     :param ignore          ignored characters
 
     :type source           str
     :type target           str
     :type xlit             str
+    :type sign             bool
     :type ignore           str
     
     """
 
+    tr = Transducer(ignore)
+
     def interpolate(string, longer):
-        """ Interpolate source and target strings to same length """
+        """ Interpolate source and target strings to same length,
+        e.g. dingir : AN --> dingir : A^^^^N """
+        
         out = [''] * longer
         shorter = len(string)
         for e, c in enumerate(string):
@@ -257,11 +284,15 @@ def replace(source, target, xlit, sign=True, ignore=''):
         return out
 
     def chunk(string, shorter):
+        """ Chunk target into multichar strings if source is
+        shorter, e.g. AN : dingir --> AN : din^gir """
+        
         string = list(tuple(target))
         k, m = divmod(len(string), shorter)
         return list(''.join(string[i*k+min(i, m):(i+1)*k+min(i+1, m)])
                  for i in range(shorter))
 
+    """ Interpolate or chunk """
     if len(source) > len(target):
         target = interpolate(target, len(source))
     elif len(source) < len(target):
@@ -273,15 +304,17 @@ def replace(source, target, xlit, sign=True, ignore=''):
     source = list(tuple(source))
 
     if sign:
+        """ Sign-level substitutions, e.g. en : X will change
+        en-engar into X-engar """
         t, d = unzip_xlit(xlit, extra_delimiters=' ')
         parts = []
         for token in t:
-            tr = Transducer(source, target, token, ignore)
-            parts.append(tr.run(sign))
-        
-        print(zip_xlit(parts, d))
-
-    else:        
-        tr = Transducer(source, target, xlit, ignore)
-        return tr.run(sign)
+            #tr = Transducer(source, target, token, ignore)
+            parts.append(tr.run(source, target, token, sign))
+        return (zip_xlit(parts, d))
+    else:
+        """ Free substitutions, e.g. en : X will change
+        en-engar X-Xgar """
+        #tr = Transducer(source, target, xlit, ignore)
+        return tr.run(source, target, xlit, sign)
     
