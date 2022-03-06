@@ -280,20 +280,20 @@ class BracketMover():
 
         """ Tokenize if input is a line """
         if ' ' in xlit:
-            words = util.tokenize_line(xlit)
+            words = util.tokenize(xlit)
         else:
             words = [xlit]
 
         output = []
         for word in words:
 
-            signs, delimiters = util.unzip_word(word)
+            signs, delimiters = util.unzip_xlit(word)
             signs = [_move(s) for s in signs]
 
             if hash_notation:
                 signs = [_hashtag(s) for s in signs]
                     
-            output.append(util.zip_word(signs, delimiters))
+            output.append(util.zip_xlit(signs, delimiters))
 
         if self.half_stack:
             self.half_stack = []

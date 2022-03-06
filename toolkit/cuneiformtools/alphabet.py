@@ -20,6 +20,7 @@ CONSONANT = "bdfgĝŋhḫjklmnpqrřȓsšśṣtṭvwxyz" + ALEPH
 VOWEL = "aiueo"
 PIPE = "|"
 ALPHANUMERIC = ALPHA + NUMERIC
+BRACKETS = '[⸢⸣]'
 
 ALLNUMBERS = ''.join([j for i in zip(list(NUMERIC),
                                      list(INDEX)) for j in i])
